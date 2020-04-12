@@ -4,9 +4,12 @@ function parseDate(str) {
     var day;
     if (str) {
         if (str.length === 4) {
-            day = moment(`1/1/${str}`, "D/M/YYYY");
+            day = moment(`01/01/${str}`, "D/M/YYYY");
         } else if (str.length === 8 || str.length === 9 || str.length === 10) {
             day = moment(str, "D/M/YYYY");
+            if (day.toString() === 'Invalid date') {
+                day = moment(`01/01/${str.split('/')[2]}`, "D/M/YYYY");
+            }
         } else {
             day = moment(str, "YYYY-MM-DD HH:mm:ss");
         }
