@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Chủ hộ",
+    "chuho": true
+  },
+  {
+    "id": 2,
+    "name": "Vợ, chồng",
+    "chuho": false
+  },
+  {
+    "id": 3,
+    "name": "Con",
+    "chuho": false
+  },
+  {
+    "id": 4,
+    "name": "Cha, mẹ",
+    "chuho": false
+  },
+  {
+    "id": 5,
+    "name": "Ông, bà",
+    "chuho": false
+  },
+  {
+    "id": 6,
+    "name": "Cháu",
+    "chuho": false
+  },
+  {
+    "id": 7,
+    "name": "Anh,chị,em",
+    "chuho": false
+  },
+  {
+    "id": 8,
+    "name": "Khác",
+    "chuho": false
+  }
+]
