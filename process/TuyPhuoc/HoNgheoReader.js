@@ -1,5 +1,6 @@
 
 const fs = require('fs');
+const path = require("path");
 const excelToJson = require('convert-excel-to-json');
 
 const result = excelToJson({
@@ -18,7 +19,7 @@ const result = excelToJson({
     }
 });
 
-fs.writeFileSync('./src/data/TuyPhuoc/HoNgeo.json', JSON.stringify(result), (err) => {
+fs.writeFileSync(path.join(__dirname, '../../data/TuyPhuoc/HoNgeo.json'), JSON.stringify(result), (err) => {
     if (err) throw err;
     console.log('Data written to file');
 });
