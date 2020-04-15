@@ -1,0 +1,807 @@
+[
+  {
+    "STT": 1,
+    "TenDN": "Công ty TNHH Phương Giang",
+    "TongSoLD": 24,
+    "SoLDTamHoan": 24,
+    "MST": 4100767977
+  },
+  {
+    "STT": 2,
+    "TenDN": "Công ty TNHH Phát triển Giáo dục Ngọc Thanh",
+    "TongSoLD": 4,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 4,
+    "SoLDTamHoan": 0,
+    "MST": 4101413988
+  },
+  {
+    "STT": 3,
+    "TenDN": "Công ty TNHH TMDV Quảng cáo Thuận Nghĩa",
+    "TongSoLD": 0,
+    "SoLDHuongBaoHiemThoiViec": 4,
+    "MST": 4101489200
+  },
+  {
+    "STT": 4,
+    "TenDN": "Công ty TNHH Điện lạnh Toàn Tài Phát",
+    "TongSoLD": 0,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 0,
+    "SoLDHuongBaoHiemThoiViec": 5,
+    "MST": 4101508206
+  },
+  {
+    "STT": 5,
+    "TenDN": "Công ty TNHH SXTM Sắt mỹ thuật Thanh Tửu",
+    "TongSoLD": 5,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 5,
+    "SoLDHuongBaoHiemThoiViec": 0,
+    "MST": 4101473088
+  },
+  {
+    "STT": 6,
+    "TenDN": "Công ty TNHH TM và DV Tứ Năng",
+    "TongSoLD": 144,
+    "SoLDTamHoan": 144,
+    "SoLDHuongBaoHiemThoiViec": 49,
+    "MST": 4100629173
+  },
+  {
+    "STT": 7,
+    "TenDN": "Công ty cổ phần tập đoàn KHANGGROUP",
+    "TongSoLD": 24,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 24,
+    "SoLDHuongBaoHiemThoiViec": 3,
+    "MST": 4101442805
+  },
+  {
+    "STT": 8,
+    "TenDN": "Công ty TNHH MTV An Trường Phú",
+    "TongSoLD": 6,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 6,
+    "SoLDHuongBaoHiemThoiViec": 1,
+    "MST": 4101271613
+  },
+  {
+    "STT": 9,
+    "TenDN": "Công ty TNHH Tổng hợp đá Tiến Thành",
+    "TongSoLD": 0,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 0,
+    "SoLDHuongBaoHiemThoiViec": 3,
+    "MST": 4101492210
+  },
+  {
+    "STT": 10,
+    "TenDN": "Công ty cổ phần Việt Úc - Bình Định",
+    "TongSoLD": 232,
+    "SoLDLamViec": 230,
+    "SoLDTamHoan": 2,
+    "SoLDHuongBaoHiemThoiViec": 0,
+    "MST": 4100554305
+  },
+  {
+    "STT": 11,
+    "TenDN": "Công ty CP tư vấn XD thủy lợi thủy điện BĐịnh",
+    "TongSoLD": 24,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 24,
+    "SoLDTamHoan": 0,
+    "SoLDHuongBaoHiemThoiViec": 0,
+    "MST": 4100259324
+  },
+  {
+    "STT": 12,
+    "TenDN": "Công ty Vietravel Quy Nhơn",
+    "TongSoLD": 17,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 17,
+    "SoLDHuongBaoHiemThoiViec": 0,
+    "MST": "0300465937-004"
+  },
+  {
+    "STT": 13,
+    "TenDN": "Công ty TNHH SX & TM Nhựa Tứ Hợp Nhất",
+    "TongSoLD": 6,
+    "SoLDLamViec": 1,
+    "SoLDTamHoan": 5,
+    "SoLDHuongBaoHiemThoiViec": 1,
+    "MST": "4100698699"
+  },
+  {
+    "STT": 14,
+    "TenDN": "Công ty CP Đầu tư và Xây dựng C.P",
+    "TongSoLD": 66,
+    "SoLDTamHoan": 66,
+    "MST": 4100967077
+  },
+  {
+    "STT": 15,
+    "TenDN": "Công ty TNHH TM & DV Nam Anh",
+    "TongSoLD": 6,
+    "SoLDLamViec": 6,
+    "SoLDHuongBaoHiemThoiViec": 4,
+    "MST": 4100641325
+  },
+  {
+    "STT": 16,
+    "TenDN": "Công ty TNHH Thiên Hương Quy Nhơn",
+    "TongSoLD": 2,
+    "SoLDTamHoan": 2,
+    "MST": "4101483110"
+  },
+  {
+    "STT": 17,
+    "TenDN": "Phòng khám Đa khoa Quốc tế Thu Phúc",
+    "TongSoLD": 25,
+    "SoLDLamViec": 10,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 15,
+    "MST": "4101425736-001"
+  },
+  {
+    "STT": 18,
+    "TenDN": "Công ty CP Lâm nghiệp 19",
+    "TongSoLD": 344,
+    "SoLDLamViec": 279,
+    "SoLDTamHoan": 65,
+    "MST": "4100258994"
+  },
+  {
+    "STT": 19,
+    "TenDN": "Công ty TNHH LAWAVIE",
+    "TongSoLD": 0,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDHuongBaoHiemThoiViec": 2,
+    "MST": 4101227886
+  },
+  {
+    "STT": 20,
+    "TenDN": "DNTN TM & DV Triệu Hoàng",
+    "TongSoLD": 1,
+    "SoLDLamViec": 1,
+    "MST": 4101508291
+  },
+  {
+    "STT": 21,
+    "TenDN": "Công ty TNHH Dịch vụ N&N",
+    "TongSoLD": 7,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 7,
+    "SoLDHuongBaoHiemThoiViec": 16,
+    "MST": 4101434515
+  },
+  {
+    "STT": 22,
+    "TenDN": "Công ty CP Đầu tư Phát triển Du lịch - Dịch vụ Quy Nhơn",
+    "TongSoLD": 144,
+    "SoLDNgungViec": 137,
+    "SoLDTamHoan": 7,
+    "MST": 4101490478
+  },
+  {
+    "STT": 23,
+    "TenDN": "DNTN Khách sạn Nam Khánh",
+    "TongSoLD": 3,
+    "SoLDLamViec": 0,
+    "SoLDTamHoan": 3,
+    "MST": "4101557394"
+  },
+  {
+    "STT": 24,
+    "TenDN": "Công ty CP Xuất nhập khẩu Tiến Phước",
+    "TongSoLD": 40,
+    "SoLDLamViec": 7,
+    "SoLDTamHoan": 33,
+    "MST": "4100836719"
+  },
+  {
+    "STT": 25,
+    "TenDN": "Công ty TNHH Hồng Phúc",
+    "TongSoLD": 48,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 48,
+    "SoLDHuongBaoHiemThoiViec": 1,
+    "MST": "4100267741"
+  },
+  {
+    "STT": 26,
+    "TenDN": "Công ty CP Quản lý sửa chữa đường bộ Quy Nhơn",
+    "TongSoLD": 81,
+    "SoLDLamViec": 31,
+    "SoLDNgungViec": 50,
+    "MST": "4100298563"
+  },
+  {
+    "STT": 27,
+    "TenDN": "Công ty TNHH Đầu tư và Xây dựng Tường Duy",
+    "TongSoLD": 15,
+    "SoLDLamViec": 8,
+    "SoLDTamHoan": 7,
+    "MST": "4100463464"
+  },
+  {
+    "STT": 28,
+    "TenDN": "Công ty CP Đường Sắt Nghĩa Bình",
+    "TongSoLD": 543,
+    "SoLDLamViec": 533,
+    "SoLDNgungViec": 10,
+    "MST": "4100259405"
+  },
+  {
+    "STT": 29,
+    "TenDN": "Công ty CP Thủy sản Bình Định",
+    "TongSoLD": 843,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 4,
+    "SoLDTamHoan": 839,
+    "MST": 4100301209
+  },
+  {
+    "STT": 30,
+    "TenDN": "Công ty CP Đầu tư và Vận tải Cửu Long",
+    "TongSoLD": 34,
+    "SoLDLamViec": 17,
+    "SoLDTamHoan": 17,
+    "MST": "4101461572"
+  },
+  {
+    "STT": 31,
+    "TenDN": "Công ty CP Đông lạnh Quy Nhơn",
+    "TongSoLD": 79,
+    "SoLDLamViec": 26,
+    "SoLDNgungViec": 40,
+    "SoLDTamHoan": 13,
+    "SoLDHuongBaoHiemThoiViec": 38,
+    "MST": "4100483485"
+  },
+  {
+    "STT": 32,
+    "TenDN": "Công ty TNHH Xây dựng Vĩ Nhân",
+    "TongSoLD": 5,
+    "SoLDLamViec": 0,
+    "SoLDTamHoan": 5,
+    "MST": "4101439665"
+  },
+  {
+    "STT": 33,
+    "TenDN": "Công ty CP Thương mại Hoàn Cầu",
+    "TongSoLD": 80,
+    "SoLDTamHoan": 80,
+    "MST": "4100429992"
+  },
+  {
+    "STT": 34,
+    "TenDN": "Công ty CP Thủy sản Hoài Nhơn",
+    "TongSoLD": 125,
+    "SoLDLamViec": 81,
+    "SoLDTamHoan": 44,
+    "SoLDHuongBaoHiemThoiViec": 18,
+    "MST": "4100302682"
+  },
+  {
+    "STT": 35,
+    "TenDN": "Công ty TNHH Tổng hợp TM & DV Minh Thanh",
+    "TongSoLD": 7,
+    "SoLDLamViec": 3,
+    "SoLDNgungViec": 1,
+    "SoLDTamHoan": 3,
+    "SoLDHuongBaoHiemThoiViec": 1,
+    "MST": "4101042275"
+  },
+  {
+    "STT": 36,
+    "TenDN": "Công ty TNHH TM&DV BĐS Tài Nguyên",
+    "TongSoLD": 5,
+    "SoLDTamHoan": 5,
+    "SoLDHuongBaoHiemThoiViec": 5,
+    "MST": 4101536757
+  },
+  {
+    "STT": 37,
+    "TenDN": "Công ty TNHH Xây dựng - Tổng hợp Bình Dương",
+    "TongSoLD": 4,
+    "SoLDLamViec": 0,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 4,
+    "SoLDHuongBaoHiemThoiViec": 42,
+    "MST": 4100460262
+  },
+  {
+    "STT": 38,
+    "TenDN": "Công ty TNHH Nguyễn Nga Lâu",
+    "TongSoLD": 3,
+    "SoLDTamHoan": 3,
+    "SoLDHuongBaoHiemThoiViec": 9,
+    "MST": "4100742901"
+  },
+  {
+    "STT": 39,
+    "TenDN": "Công ty CP May Hoài Ân",
+    "TongSoLD": 207,
+    "SoLDLamViec": 202,
+    "SoLDTamHoan": 5,
+    "MST": "4101356602"
+  },
+  {
+    "STT": 40,
+    "TenDN": "Công ty TNHH Kinh doanh Bến xe Bình Dương",
+    "TongSoLD": 13,
+    "SoLDNgungViec": 13,
+    "MST": "4100615621"
+  },
+  {
+    "STT": 41,
+    "TenDN": "Công ty TNHH Dịch vụ Ngọc Linh",
+    "TongSoLD": 4,
+    "SoLDNgungViec": 1,
+    "SoLDTamHoan": 3,
+    "MST": "4101130115"
+  },
+  {
+    "STT": 42,
+    "TenDN": "Công ty TNHH Sachi Nguyễn",
+    "TongSoLD": 23,
+    "SoLDNgungViec": 6,
+    "SoLDTamHoan": 17,
+    "MST": "4101487108"
+  },
+  {
+    "STT": 43,
+    "TenDN": "Công ty TNHH Xây dựng - Tổng hợp Bình Nguyên",
+    "TongSoLD": 0,
+    "SoLDHuongBaoHiemThoiViec": 25,
+    "MST": "4101458153"
+  },
+  {
+    "STT": 44,
+    "TenDN": "Công ty TNHH Thương mại Tổng hợp Thuận Nguyên",
+    "TongSoLD": 3,
+    "SoLDNgungViec": 3,
+    "MST": "4101481875"
+  },
+  {
+    "STT": 45,
+    "TenDN": "Công ty TNHHH SX XDTH Đại Lộc",
+    "TongSoLD": 0,
+    "SoLDHuongBaoHiemThoiViec": 17,
+    "MST": "4101392304"
+  },
+  {
+    "STT": 46,
+    "TenDN": "DNTN Thương mại Triệu Thành",
+    "TongSoLD": 7,
+    "SoLDNgungViec": 7,
+    "MST": 4100444775
+  },
+  {
+    "STT": 47,
+    "TenDN": "Công ty TNHH Sản xuất Minh Chánh",
+    "TongSoLD": 3,
+    "SoLDNgungViec": 3,
+    "MST": "4101466524"
+  },
+  {
+    "STT": 48,
+    "TenDN": "Công ty TNHH Sản xuất Minh Hòa",
+    "TongSoLD": 3,
+    "SoLDNgungViec": 3,
+    "MST": "4101465922"
+  },
+  {
+    "STT": 49,
+    "TenDN": "Công ty TNHH Dịch vụ TM Vũ Hoàng Gia",
+    "TongSoLD": 6,
+    "SoLDNgungViec": 6,
+    "MST": "4101482195"
+  },
+  {
+    "STT": 50,
+    "TenDN": "Công ty TNHH Nhật Tân",
+    "TongSoLD": 3,
+    "SoLDNgungViec": 3,
+    "MST": "4400277469-008"
+  },
+  {
+    "STT": 51,
+    "TenDN": "Công ty TNHH Sinh Liễu",
+    "TongSoLD": 4,
+    "SoLDTamHoan": 4,
+    "SoLDHuongBaoHiemThoiViec": 16,
+    "MST": "4101489708"
+  },
+  {
+    "STT": 52,
+    "TenDN": "Công ty TNHH Thương mại Tuyết Hoa",
+    "TongSoLD": 3,
+    "SoLDNgungViec": 3,
+    "MST": "4100670799"
+  },
+  {
+    "STT": 53,
+    "TenDN": "DNTN 304 Phù Mỹ",
+    "TongSoLD": 3,
+    "SoLDTamHoan": 3,
+    "MST": "4100592445"
+  },
+  {
+    "STT": 54,
+    "TenDN": "DNTN Hiền Hòa",
+    "TongSoLD": 2,
+    "SoLDNgungViec": 2,
+    "MST": "4100575376"
+  },
+  {
+    "STT": 55,
+    "TenDN": "Công ty TNHH Mỹ thuật Quảng cáo Vân Công",
+    "TongSoLD": 17,
+    "SoLDLamViec": 3,
+    "SoLDNgungViec": 14,
+    "SoLDTamHoan": 0,
+    "SoLDHuongBaoHiemThoiViec": 18,
+    "MST": "4100577214"
+  },
+  {
+    "STT": 56,
+    "TenDN": "DNTN Dịch vụ Đức Duy",
+    "TongSoLD": 3,
+    "SoLDTamHoan": 3,
+    "MST": "4100504368"
+  },
+  {
+    "STT": 57,
+    "TenDN": "Công ty TNHH Hương Bình",
+    "TongSoLD": 6,
+    "SoLDNgungViec": 2,
+    "SoLDTamHoan": 4,
+    "MST": "4101123830"
+  },
+  {
+    "STT": 58,
+    "TenDN": "Công ty TNHH Vạn An",
+    "TongSoLD": 11,
+    "SoLDTamHoan": 11,
+    "MST": "4101131510"
+  },
+  {
+    "STT": 59,
+    "TenDN": "Khách sạn Bình Dương",
+    "TongSoLD": 42,
+    "SoLDTamHoan": 42,
+    "MST": "5900189438-004"
+  },
+  {
+    "STT": 60,
+    "TenDN": "Công ty TNHH Vận tải khách Đệ Nhất",
+    "TongSoLD": 42,
+    "SoLDTamHoan": 42,
+    "MST": "4101442139"
+  },
+  {
+    "STT": 61,
+    "TenDN": "Công ty TNHH TM & SX Minh Hoàng",
+    "TongSoLD": 8,
+    "SoLDTamHoan": 8,
+    "MST": 4101431881
+  },
+  {
+    "STT": 62,
+    "TenDN": "Công ty TNHH TM & Xây dựng TH Thảo Trinh",
+    "TongSoLD": 19,
+    "SoLDLamViec": 15,
+    "SoLDTamHoan": 4,
+    "SoLDHuongBaoHiemThoiViec": 4,
+    "MST": 4100633268
+  },
+  {
+    "STT": 63,
+    "TenDN": "Công ty TNHH Niên Khải",
+    "TongSoLD": 12,
+    "SoLDLamViec": 2,
+    "SoLDTamHoan": 10,
+    "SoLDHuongBaoHiemThoiViec": 3,
+    "MST": 4101537856
+  },
+  {
+    "STT": 64,
+    "TenDN": "Công ty TNHH Đầu tư và Xây dựng Trường Thịnh",
+    "TongSoLD": 17,
+    "SoLDLamViec": 6,
+    "SoLDNgungViec": 5,
+    "SoLDTamHoan": 6,
+    "SoLDHuongBaoHiemThoiViec": 10,
+    "MST": 4101046576
+  },
+  {
+    "STT": 65,
+    "TenDN": "Công ty TNHH MTV Trung Ngân",
+    "TongSoLD": 2,
+    "SoLDTamHoan": 2,
+    "MST": 4101554361
+  },
+  {
+    "STT": 66,
+    "TenDN": "Công ty TNHH Minh Trang",
+    "TongSoLD": 8,
+    "SoLDTamHoan": 8,
+    "MST": 4100906405
+  },
+  {
+    "STT": 67,
+    "TenDN": "Công ty TNHH Xây dựng và Thương mại Chánh Thắng",
+    "TongSoLD": 3,
+    "SoLDLamViec": 2,
+    "SoLDTamHoan": 1,
+    "SoLDHuongBaoHiemThoiViec": 8,
+    "MST": 4101400717
+  },
+  {
+    "STT": 68,
+    "TenDN": "Công ty TNHH Thương mại sản xuất Hà Ẩn",
+    "TongSoLD": 1,
+    "SoLDTamHoan": 1,
+    "MST": 4100626493
+  },
+  {
+    "STT": 69,
+    "TenDN": "Công ty TNHH Xây dựng Mười Tùng",
+    "TongSoLD": 10,
+    "SoLDLamViec": 7,
+    "SoLDNgungViec": 1,
+    "SoLDTamHoan": 2,
+    "SoLDHuongBaoHiemThoiViec": 11,
+    "MST": 4101315758
+  },
+  {
+    "STT": 70,
+    "TenDN": "Công ty TNHH Dịch vụ và Vận tải Hoàng Thư",
+    "TongSoLD": 12,
+    "SoLDTamHoan": 12,
+    "MST": 4101504226
+  },
+  {
+    "STT": 71,
+    "TenDN": "Công ty TNHH Thương mại Dịch vụ Ba Miên",
+    "TongSoLD": 46,
+    "SoLDTamHoan": 46,
+    "MST": 4100404067
+  },
+  {
+    "STT": 72,
+    "TenDN": "Công ty TNHH Cali Hotel",
+    "TongSoLD": 1,
+    "SoLDTamHoan": 1,
+    "MST": 4100668969
+  },
+  {
+    "STT": 73,
+    "TenDN": "Công ty TNHH MTV Sản xuất Thương mại Dịch vụ Quang Dũng",
+    "TongSoLD": 461,
+    "SoLDTamHoan": 461,
+    "MST": 4100601379
+  },
+  {
+    "STT": 74,
+    "TenDN": "Công ty CP Bệnh viện Đa khoa Bình Định",
+    "TongSoLD": 437,
+    "SoLDLamViec": 430,
+    "SoLDNgungViec": 6,
+    "SoLDTamHoan": 1,
+    "SoLDHuongBaoHiemThoiViec": 0,
+    "MST": 4101449550
+  },
+  {
+    "STT": 75,
+    "TenDN": "Công ty CP VIN DENAU",
+    "TongSoLD": 0,
+    "SoLDHuongBaoHiemThoiViec": 19,
+    "MST": 4101511181
+  },
+  {
+    "STT": 76,
+    "TenDN": "Công ty TNHH Thương mại Dịch vụ Cây Cau",
+    "TongSoLD": 0,
+    "SoLDHuongBaoHiemThoiViec": 7,
+    "MST": 4101510501
+  },
+  {
+    "STT": 77,
+    "TenDN": "Công ty TNHH Tổng hợp Vĩnh Sơn",
+    "TongSoLD": 2,
+    "SoLDTamHoan": 2,
+    "MST": 4101520210
+  },
+  {
+    "STT": 78,
+    "TenDN": "Công ty In Nhân dân Bình Định",
+    "TongSoLD": 191,
+    "SoLDLamViec": 167,
+    "SoLDNgungViec": 24,
+    "MST": 4100259476
+  },
+  {
+    "STT": 79,
+    "TenDN": "Công ty TNHH Thủy sản Tấn Dư",
+    "TongSoLD": 14,
+    "SoLDNgungViec": 12,
+    "SoLDTamHoan": 2,
+    "MST": 4101552702
+  },
+  {
+    "STT": 80,
+    "TenDN": "Công ty CP Đầu tư và Phát triển Giáo dục Việt Mỹ",
+    "TongSoLD": 30,
+    "SoLDNgungViec": 30,
+    "MST": 4100757672
+  },
+  {
+    "STT": 81,
+    "TenDN": "Công ty TNHH Kinh doanh Xuất nhập khẩu Phước Long",
+    "TongSoLD": 25,
+    "SoLDLamViec": 1,
+    "SoLDTamHoan": 24,
+    "MST": 4101348270
+  },
+  {
+    "STT": 82,
+    "TenDN": "Công ty TNHH May Hoa Nắng",
+    "TongSoLD": 157,
+    "SoLDLamViec": 25,
+    "SoLDNgungViec": 21,
+    "SoLDTamHoan": 111,
+    "MST": 4101407906
+  },
+  {
+    "STT": 83,
+    "TenDN": "Công ty CP Giày Bình Định",
+    "TongSoLD": 1141,
+    "SoLDLamViec": 32,
+    "SoLDTamHoan": 1109,
+    "MST": 4100258761
+  },
+  {
+    "STT": 84,
+    "TenDN": "Công ty CP Sản xuất Thương mại Vĩnh Thạnh",
+    "TongSoLD": 5,
+    "SoLDTamHoan": 5,
+    "MST": 4100730166
+  },
+  {
+    "STT": 85,
+    "TenDN": "Xí nghiệp Chế biến Lâm sản Quy Nhơn",
+    "TongSoLD": 238,
+    "SoLDLamViec": 151,
+    "SoLDNgungViec": 87,
+    "MST": "5900189269-001"
+  },
+  {
+    "STT": 86,
+    "TenDN": "Công ty TNHH Thương mại Dịch vụ Tổng hợp Quang Phát",
+    "TongSoLD": 2,
+    "SoLDTamHoan": 2,
+    "MST": 4101548914
+  },
+  {
+    "STT": 87,
+    "TenDN": "Công ty TNHH MTV TOYOTA Bình Định",
+    "TongSoLD": 99,
+    "SoLDLamViec": 28,
+    "SoLDNgungViec": 71,
+    "MST": 4101478022
+  },
+  {
+    "STT": 88,
+    "TenDN": "Công ty TNHH Xây dựng Thương mại và Dịch vụ Tiến Thịnh",
+    "TongSoLD": 7,
+    "SoLDTamHoan": 7,
+    "MST": 4101511142
+  },
+  {
+    "STT": 89,
+    "TenDN": "Công ty TNHH Thương mại Vinh Tùng",
+    "TongSoLD": 28,
+    "SoLDNgungViec": 13,
+    "SoLDTamHoan": 15,
+    "MST": 4100528425
+  },
+  {
+    "STT": 90,
+    "TenDN": "Chi nhánh Công ty TNHH Thương mại Du lịch Thịnh Hùng tại Quy Nhơn",
+    "TongSoLD": 0,
+    "SoLDHuongBaoHiemThoiViec": 24,
+    "MST": "0401416372-001"
+  },
+  {
+    "STT": 91,
+    "TenDN": "Công ty TNHH Thương mại Cơ khí Xây dựng Thành Nam",
+    "TongSoLD": 23,
+    "SoLDTamHoan": 23,
+    "MST": 4100641692
+  },
+  {
+    "STT": 92,
+    "TenDN": "Công ty TNHH Dịch vụ Thương mại Minh Tân",
+    "TongSoLD": 8,
+    "SoLDNgungViec": 1,
+    "SoLDTamHoan": 7,
+    "MST": 4100858180
+  },
+  {
+    "STT": 93,
+    "TenDN": "Công ty CP Xây dựng 47",
+    "TongSoLD": 794,
+    "SoLDLamViec": 61,
+    "SoLDNgungViec": 733,
+    "MST": 4100258747
+  },
+  {
+    "STT": 94,
+    "TenDN": "Công ty TNHH Tư vấn Xây dựng Tổng hợp Hoàng Lê",
+    "TongSoLD": 19,
+    "SoLDTamHoan": 19,
+    "MST": 4100460209
+  },
+  {
+    "STT": 95,
+    "TenDN": "Công ty TNHH Khương Đài",
+    "TongSoLD": 11,
+    "SoLDLamViec": 1,
+    "SoLDTamHoan": 10,
+    "SoLDHuongBaoHiemThoiViec": 16,
+    "MST": 4101429106
+  },
+  {
+    "STT": 96,
+    "TenDN": "Công ty CP Hồng Hà Bình Định",
+    "TongSoLD": 103,
+    "SoLDLamViec": 55,
+    "SoLDNgungViec": 48,
+    "MST": 4101030350
+  },
+  {
+    "STT": 97,
+    "TenDN": "Công ty TNHH Tân Trinh",
+    "TongSoLD": 10,
+    "SoLDTamHoan": 10,
+    "MST": 4100522222
+  },
+  {
+    "STT": 98,
+    "TenDN": "Công ty TNHH An Thịnh Phúc",
+    "TongSoLD": 9,
+    "SoLDNgungViec": 7,
+    "SoLDTamHoan": 2,
+    "SoLDHuongBaoHiemThoiViec": 7,
+    "MST": 4101415022
+  },
+  {
+    "STT": 99,
+    "TenDN": "Cty TNHH May Mai Trang",
+    "TongSoLD": 50,
+    "SoLDLamViec": 7,
+    "SoLDTamHoan": 43,
+    "MST": 4101539518
+  },
+  {
+    "STT": 100,
+    "TenDN": "Công ty TNHH Sản xuất Thương mại Trung Thanh",
+    "TongSoLD": 27,
+    "SoLDLamViec": 4,
+    "SoLDNgungViec": 0,
+    "SoLDTamHoan": 23,
+    "MST": 4101467165
+  }
+]
