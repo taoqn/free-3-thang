@@ -1833,7 +1833,7 @@
     "STT": 184,
     "HoTen": "Trương Thị Đông",
     "CMND": "211666439",
-    "Nam": "25/05/1981",
+    "Nu": "25/05/1981",
     "NgheNghiep": "Thợ may",
     "DoiTuong4": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1842,8 +1842,7 @@
   {
     "STT": 185,
     "HoTen": "Hồ Thị Hoàn Hảo",
-    "CMND": "2018-09-14T17:00:00.000Z",
-    "Nam": "1988-10-19T17:00:00.000Z",
+    "Nu": "1988-10-19T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1852,8 +1851,7 @@
   {
     "STT": 186,
     "HoTen": "Trần Thị Lệ Hằng",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "1985-08-05T17:00:00.000Z",
+    "Nu": "1985-08-05T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1862,8 +1860,7 @@
   {
     "STT": 187,
     "HoTen": "Nguyễn THị Huỳnh Như",
-    "CMND": "2018-10-18T17:00:00.000Z",
-    "Nam": "2000-02-15T17:00:00.000Z",
+    "Nu": "2000-02-15T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1872,8 +1869,7 @@
   {
     "STT": 188,
     "HoTen": "Ngô Thị Ngọc Huyền",
-    "CMND": "2018-09-19T17:00:00.000Z",
-    "Nam": "1989-12-03T17:00:00.000Z",
+    "Nu": "1989-12-03T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1882,8 +1878,7 @@
   {
     "STT": 189,
     "HoTen": "Dương Thị Đông",
-    "CMND": "2018-10-18T17:00:00.000Z",
-    "Nam": "1981-05-24T17:00:00.000Z",
+    "Nu": "1981-05-24T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1892,8 +1887,7 @@
   {
     "STT": 190,
     "HoTen": "Nguyễn Thị Kim Thuận",
-    "CMND": "2018-10-31T17:00:00.000Z",
-    "Nam": "2003-01-06T17:00:00.000Z",
+    "Nu": "2003-01-06T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1902,8 +1896,7 @@
   {
     "STT": 191,
     "HoTen": "Thái Thị Bích Nhân",
-    "CMND": "2018-10-31T17:00:00.000Z",
-    "Nam": "2001-02-07T17:00:00.000Z",
+    "Nu": "2001-02-07T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1912,8 +1905,7 @@
   {
     "STT": 192,
     "HoTen": "Huỳnh Thị Nở",
-    "CMND": "2018-12-27T17:00:00.000Z",
-    "Nam": "2002-11-21T17:00:00.000Z",
+    "Nu": "2002-11-21T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1922,8 +1914,7 @@
   {
     "STT": 193,
     "HoTen": "Phan Thị Luyến",
-    "CMND": "2019-02-24T17:00:00.000Z",
-    "Nam": "1978-11-20T17:00:00.000Z",
+    "Nu": "1978-11-20T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1932,8 +1923,7 @@
   {
     "STT": 194,
     "HoTen": "Trần Thị Kiều My",
-    "CMND": "2019-02-24T17:00:00.000Z",
-    "Nam": "1992-08-12T17:00:00.000Z",
+    "Nu": "1992-08-12T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1942,8 +1932,7 @@
   {
     "STT": 195,
     "HoTen": "Trần Thị Mỹ Ngọc",
-    "CMND": "2019-04-20T17:00:00.000Z",
-    "Nam": "1988-04-08T17:00:00.000Z",
+    "Nu": "1988-04-08T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1952,8 +1941,7 @@
   {
     "STT": 196,
     "HoTen": "Trương Thị Ngọc Định",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "1998-12-31T17:00:00.000Z",
+    "Nu": "1998-12-31T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1962,8 +1950,7 @@
   {
     "STT": 197,
     "HoTen": "Lương Thị Kiều Trinh",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "2000-10-17T17:00:00.000Z",
+    "Nu": "2000-10-17T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1972,8 +1959,7 @@
   {
     "STT": 198,
     "HoTen": "Phạm Thị Ánh Tuyết",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "2000-10-17T17:00:00.000Z",
+    "Nu": "2000-10-17T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1982,8 +1968,7 @@
   {
     "STT": 199,
     "HoTen": "Huỳnh Thị Ngọc Bích",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "2000-06-19T17:00:00.000Z",
+    "Nu": "2000-06-19T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -1992,8 +1977,7 @@
   {
     "STT": 200,
     "HoTen": "Nguyễn Thị Thanh Tiền",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "24/82002",
+    "Nu": "24/82002",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2002,8 +1986,7 @@
   {
     "STT": 201,
     "HoTen": "Nguyễn Thị Sơn Ca",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "1993-08-25T17:00:00.000Z",
+    "Nu": "1993-08-25T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2012,8 +1995,7 @@
   {
     "STT": 202,
     "HoTen": "Nguyễn Thị Ngọc Yến",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "1999-08-19T17:00:00.000Z",
+    "Nu": "1999-08-19T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2022,8 +2004,7 @@
   {
     "STT": 203,
     "HoTen": "Trần Thị Mỹ Lệ",
-    "CMND": "2019-05-17T17:00:00.000Z",
-    "Nam": "1991-02-19T17:00:00.000Z",
+    "Nu": "1991-02-19T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2032,8 +2013,7 @@
   {
     "STT": 204,
     "HoTen": "Lê Mai Thảo",
-    "CMND": "2019-05-28T17:00:00.000Z",
-    "Nam": "1998-05-15T17:00:00.000Z",
+    "Nu": "1998-05-15T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2042,8 +2022,7 @@
   {
     "STT": 205,
     "HoTen": "Trần Thị Hồng",
-    "CMND": "2019-05-28T17:00:00.000Z",
-    "Nam": "1993-02-22T17:00:00.000Z",
+    "Nu": "1993-02-22T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2052,7 +2031,6 @@
   {
     "STT": 206,
     "HoTen": "Hồ Ngọc Tiên",
-    "CMND": "2019-06-21T17:00:00.000Z",
     "Nu": "1989-06-30T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
@@ -2062,8 +2040,7 @@
   {
     "STT": 207,
     "HoTen": "Nguyễn Thị Minh Thiện",
-    "CMND": "2019-08-05T17:00:00.000Z",
-    "Nam": "1992-12-07T17:00:00.000Z",
+    "Nu": "1992-12-07T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2072,8 +2049,7 @@
   {
     "STT": 208,
     "HoTen": "Trần Thị Thanh Thi",
-    "CMND": "2019-08-27T17:00:00.000Z",
-    "Nam": "1993-03-01T17:00:00.000Z",
+    "Nu": "1993-03-01T17:00:00.000Z",
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -2082,8 +2058,7 @@
   {
     "STT": 209,
     "HoTen": "Nguyễn Thị Ngọc Diệu",
-    "CMND": "2019-09-02T17:00:00.000Z",
-    "Nam": 1999,
+    "Nu": 1999,
     "NgheNghiep": "Thợ may",
     "DoiTuong3": "x",
     "TenDN": "Công ty TNHH TM và DV Tứ Năng",
@@ -21067,7 +21042,7 @@
   {
     "STT": 2107,
     "HoTen": "Nguyễn Duy Cảnh",
-    "CMND": "215 092 384",
+    "CMND": 215092384,
     "Nam": "1990-02-26T17:00:00.000Z",
     "NgheNghiep": "công nhân cơ khí",
     "DoiTuong4": "x",
@@ -21077,7 +21052,7 @@
   {
     "STT": 2108,
     "HoTen": "Ung Thanh Hiền",
-    "CMND": "211 787 811",
+    "CMND": "211787811",
     "Nam": "15/08/1983",
     "NgheNghiep": "tài xế xe 2.4 tấn",
     "DoiTuong2": "x",
@@ -21087,7 +21062,7 @@
   {
     "STT": 2109,
     "HoTen": "Lê Đức Phi",
-    "CMND": "211 302 150",
+    "CMND": "211302150",
     "Nam": "10/04/1972",
     "NgheNghiep": "kỹ thuật",
     "DoiTuong2": "x",
@@ -21097,7 +21072,7 @@
   {
     "STT": 2110,
     "HoTen": "Huỳnh Văn Dũng",
-    "CMND": "211 172 183",
+    "CMND": "211172183",
     "Nam": "12/01/1970",
     "NgheNghiep": "công nhân cơ khí",
     "DoiTuong2": "x",
@@ -21107,7 +21082,7 @@
   {
     "STT": 2111,
     "HoTen": "Huỳnh Nguyễn Thoại Miên",
-    "CMND": "115 044 581",
+    "CMND": "115044581",
     "Nu": "21/09/1990",
     "NgheNghiep": "kế toán",
     "DoiTuong2": "x",
@@ -21117,7 +21092,7 @@
   {
     "STT": 2112,
     "HoTen": "Trần Quốc Đông",
-    "CMND": "215 300 371",
+    "CMND": "215300371",
     "Nam": "26/01/1992",
     "NgheNghiep": "công nhân led",
     "DoiTuong2": "x",
@@ -21127,7 +21102,7 @@
   {
     "STT": 2113,
     "HoTen": "Kim Hàn Việt",
-    "CMND": "211 462 323",
+    "CMND": "211462323",
     "Nam": "1972",
     "NgheNghiep": "thủ kho",
     "DoiTuong2": "x",
@@ -21137,7 +21112,7 @@
   {
     "STT": 2114,
     "HoTen": "Nguyễn thị Xuân",
-    "CMND": "215 116 231",
+    "CMND": "215116231",
     "Nu": "06/11/1988",
     "NgheNghiep": "thủ quỹ",
     "DoiTuong2": "x",
@@ -21147,7 +21122,7 @@
   {
     "STT": 2115,
     "HoTen": "Huỳnh Hữu Nghĩa",
-    "CMND": "215 259 969",
+    "CMND": "215259969",
     "Nam": "04/10/1993",
     "NgheNghiep": "công nhân quảng cáo",
     "DoiTuong2": "x",
@@ -21157,7 +21132,7 @@
   {
     "STT": 2116,
     "HoTen": "Ngô Thành Công",
-    "CMND": "221 140 323",
+    "CMND": "221140323",
     "Nam": "10/11/1984",
     "NgheNghiep": "công nhân cơ khí",
     "DoiTuong2": "x",
@@ -21167,7 +21142,7 @@
   {
     "STT": 2117,
     "HoTen": "Đào Văn Đệ",
-    "CMND": "210 075 867",
+    "CMND": "210075867",
     "Nam": "1963",
     "NgheNghiep": "Bảo vệ",
     "DoiTuong2": "x",
@@ -21177,7 +21152,7 @@
   {
     "STT": 2118,
     "HoTen": "Nguyễn Hoàng Việt",
-    "CMND": "211 850 674",
+    "CMND": "211850674",
     "Nam": "25/04/1986",
     "NgheNghiep": "công nhân led",
     "DoiTuong2": "x",
@@ -21187,7 +21162,7 @@
   {
     "STT": 2119,
     "HoTen": "Bùi Quốc Trí",
-    "CMND": "215 302 875",
+    "CMND": "215302875",
     "Nam": "15/05/1995",
     "NgheNghiep": "Công nhân led",
     "DoiTuong2": "x",
@@ -21197,7 +21172,7 @@
   {
     "STT": 2120,
     "HoTen": "Nguyễn Thị Thắm",
-    "CMND": "215 397 260",
+    "CMND": 215397260,
     "Nu": "1980-12-19T17:00:00.000Z",
     "NgheNghiep": "Cung ứng vật tư",
     "DoiTuong4": "x",
@@ -21207,7 +21182,7 @@
   {
     "STT": 2121,
     "HoTen": "Phạm Nguyễn Gia lễ",
-    "CMND": "215 337 006",
+    "CMND": 215337006,
     "Nam": "1996-06-13T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21217,7 +21192,7 @@
   {
     "STT": 2122,
     "HoTen": "Nguyễn Văn Hiển",
-    "CMND": "215 197 886",
+    "CMND": 215197886,
     "Nam": "1993-01-27T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21227,7 +21202,7 @@
   {
     "STT": 2123,
     "HoTen": "Vũ Hồng Hạnh",
-    "CMND": "221 209 931",
+    "CMND": 221209931,
     "Nam": "1987-09-20T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21237,7 +21212,7 @@
   {
     "STT": 2124,
     "HoTen": "Dương Minh Thạnh",
-    "CMND": "215 298 750",
+    "CMND": 215298750,
     "Nam": "1994-07-19T17:00:00.000Z",
     "NgheNghiep": "Kỹ thuật",
     "DoiTuong4": "x",
@@ -21247,7 +21222,7 @@
   {
     "STT": 2125,
     "HoTen": "Phạm Ngọc Khôi",
-    "CMND": "211 745 846",
+    "CMND": 211745846,
     "Nam": "1982-09-26T17:00:00.000Z",
     "NgheNghiep": "công nhân cơ khí",
     "DoiTuong4": "x",
@@ -21257,7 +21232,7 @@
   {
     "STT": 2126,
     "HoTen": "Nguyễn Văn Thường",
-    "CMND": "221 320 824",
+    "CMND": 221320824,
     "Nam": "1990-09-20T17:00:00.000Z",
     "NgheNghiep": "tài xế xe 3.4 tấn",
     "DoiTuong4": "x",
@@ -21267,7 +21242,7 @@
   {
     "STT": 2127,
     "HoTen": "Văn Tấn Châu Âu",
-    "CMND": "221 362 602",
+    "CMND": 221362602,
     "Nam": "1996-04-30T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21277,7 +21252,7 @@
   {
     "STT": 2128,
     "HoTen": "Lê Qúi Học",
-    "CMND": "215 481 826",
+    "CMND": 215481826,
     "Nam": "2000-01-12T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21287,7 +21262,7 @@
   {
     "STT": 2129,
     "HoTen": "Ngô Hồng Quang",
-    "CMND": "215 278 213",
+    "CMND": 215278213,
     "Nam": "1992-11-09T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21297,7 +21272,7 @@
   {
     "STT": 2130,
     "HoTen": "Nguyễn Đình Văn",
-    "CMND": "215 351 238",
+    "CMND": 215351238,
     "Nam": "1995-10-19T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21307,7 +21282,7 @@
   {
     "STT": 2131,
     "HoTen": "Võ Đông Nhựt",
-    "CMND": "215 262 097",
+    "CMND": 215262097,
     "Nam": "1994-03-09T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21317,7 +21292,7 @@
   {
     "STT": 2132,
     "HoTen": "Lý Tấn Đạt",
-    "CMND": "215 358 297",
+    "CMND": 215358297,
     "Nam": "1996-02-21T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21327,7 +21302,7 @@
   {
     "STT": 2133,
     "HoTen": "Hồ Tuấn An",
-    "CMND": "215 333 885",
+    "CMND": 215333885,
     "Nam": "1996-06-16T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21337,7 +21312,7 @@
   {
     "STT": 2134,
     "HoTen": "Nguyễn Đình Huy",
-    "CMND": "233 187 194",
+    "CMND": 233187194,
     "Nam": "1995-06-02T17:00:00.000Z",
     "NgheNghiep": "Công nhân led",
     "DoiTuong4": "x",
@@ -21347,7 +21322,7 @@
   {
     "STT": 2135,
     "HoTen": "Dương Hoàng Sơn",
-    "CMND": "261 459 660",
+    "CMND": 261459660,
     "Nam": "1998-06-07T17:00:00.000Z",
     "NgheNghiep": "công nhân cơ khí",
     "DoiTuong4": "x",
@@ -21357,7 +21332,7 @@
   {
     "STT": 2136,
     "HoTen": "Dương Đức Minh",
-    "CMND": "261 192 481",
+    "CMND": 261192481,
     "Nam": "1967-10-23T17:00:00.000Z",
     "NgheNghiep": "Bảo vệ",
     "DoiTuong4": "x",
@@ -21367,7 +21342,7 @@
   {
     "STT": 2137,
     "HoTen": "Nguyễn Thanh Lịch",
-    "CMND": "215 241 111",
+    "CMND": "215241111",
     "Nam": "28/02/1992",
     "NgheNghiep": "Kỹ thuật",
     "DoiTuong2": "x",
@@ -21377,7 +21352,7 @@
   {
     "STT": 2138,
     "HoTen": "Nguyễn Đăng Khôi",
-    "CMND": "215 176 986",
+    "CMND": "215176986",
     "Nam": "02/09/1992",
     "NgheNghiep": "Kỹ thuật",
     "DoiTuong2": "x",

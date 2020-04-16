@@ -21,7 +21,8 @@ const result = excelToJson({
         "J": "DoiTuong4",
         "K": "TenDN",
         "L": "MSTDN",
-    }
+    },
+    sheets: ['Phụ lục 02']
 });
 
 fs.writeFileSync(path.join(__dirname, '../../data/DoanhNghiep/NguoiLaoDong.json'), JSON.stringify(result), (err) => {

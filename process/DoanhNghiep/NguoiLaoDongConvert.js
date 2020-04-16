@@ -17,14 +17,33 @@ var fileOutput = fs.createWriteStream(output, { flags: 'a' });
 // Constants
 const sqlCaNhan = `INSERT INTO ${NameDatabase}.dbo.CaNhan (ID, HoTen, GioiTinh, NgaySinh, CMND, SoDienThoai, SinhNam, SoKhaiSinh, DiaChi, IDPhuongXa, IDQuanHuyen) VALUES`;
 // Xác định mối quan hệ chủ hộ
-rawdata.forEach(async (nguoilaodong, index) => {
+rawdata.forEach(async (canhan, index) => {
     //
     fileOutput.write(`-- row: [${index}];\n`);
-    const finded = await getJSON(`https://api-covid.gdtvietnam.com/odata`, `/DoanhNghieps?$filter=MaSoThue eq '${nguoilaodong.MSTDN}'`).then(result => result.data);
+    // const doanhnghiep = await getJSON(`https://api-covid.gdtvietnam.com/odata`, `/DoanhNghieps?$filter=MaSoThue eq '${canhan.MSTDN}'`).then(result => result.data);
     //
-    // let MST = doanhnghiep.MST ? `'${doanhnghiep.MST}'` : 'NULL';
-    // if (MST.split(" ").length > 1) {
-    //     MST = MST.split(" ").join("");
+    // let CMND = canhan.CMND ? `'${canhan.CMND}'` : 'NULL';
+    // if (CMND.split(" ").length > 1) {
+    //     CMND = CMND.split(" ").join("");
     // }
-    fileOutput.write(`${sqlCaNhan} ('${uuidv4()}', N'${doanhnghiep.TenDN}', ${MST});\n`);
+    if (canhan.CMND) {
+        if (canhan.CMND.length > 9) {
+            console.log(index, " === ", canhan.CMND, " === ", canhan.HoTen)
+        }
+    }
+    //
+    // if (CMND !== 'NULL') {
+    //     console.log(`/CaNhans?$filter=CMND eq ${CMND}`);
+    //     getJSON(`https://api-covid.gdtvietnam.com/odata`, `/CaNhans?$filter=CMND eq ${CMND}`)
+    //         .then(result => result && result.data)
+    //         .then(data => data && data.value)
+    //         .then(value => {
+    //             if (value.length === 0) {
+    //                 return;
+    //             }
+    //             fileOutput.write(`${sqlCaNhan} ('${uuidv4()}', N'${canhan.HoTen}', ${CMND});\n`);
+    //         });
+    // } else {
+    //     fileOutput.write(`${sqlCaNhan} ('${uuidv4()}', N'${canhan.HoTen}', ${CMND});\n`);
+    // }
 });

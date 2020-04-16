@@ -33,7 +33,9 @@
     "doanhnghiep:json": "node ./process/DoanhNghiep/DoanhNghiepReader.js",
     "doanhnghiep:sql": "nodemon ./process/DoanhNghiep/DoanhNghiepConvert.js",
     "nguoilaodong:json": "node ./process/DoanhNghiep/NguoiLaoDongReader.js",
-    "nguoilaodong:sql": "nodemon ./process/DoanhNghiep/NguoiLaoDongConvert.js"
+    "nguoilaodong:sql": "nodemon ./process/DoanhNghiep/NguoiLaoDongConvert.js",
+    "mapper:dn:nld:json": "node ./process/DoanhNghiep/DN_NLD_Mapper.js",
+    "mapper:dn:nld:sql": "nodemon ./process/DoanhNghiep/DN_NLD_Convert.js"
   },
   "eslintConfig": {
     "extends": "react-app"
