@@ -1,0 +1,1853 @@
+[
+  { "Ma": "A01150", "Ten": "Trồng cây thuốc lá, thuốc lào" },
+  { "Ma": "A01160", "Ten": "Trồng cây lấy sợi" },
+  { "Ma": "A01170", "Ten": "Trồng cây có hạt chứa dầu" },
+  { "Ma": "A0118", "Ten": "Trồng rau, đậu các loại và trồng hoa, cây cảnh" },
+  { "Ma": "A01181", "Ten": "Trồng rau các loại" },
+  { "Ma": "A01182", "Ten": "Trồng đậu các loại" },
+  { "Ma": "A01183", "Ten": "Trồng hoa, cây cảnh" },
+  { "Ma": "A01190", "Ten": "Trồng cây hàng năm khác" },
+  { "Ma": "A012", "Ten": "Trồng cây lâu năm" },
+  { "Ma": "A0121", "Ten": "Trồng cây ăn quả" },
+  { "Ma": "A01211", "Ten": "Trồng nho" },
+  {
+    "Ma": "A01212",
+    "Ten": "Trồng xoài, cây ăn quả vùng nhiệt đới và cận nhiêt đới"
+  },
+  { "Ma": "A01213", "Ten": "Trồng cam, quít và các loại quả có múi khác" },
+  { "Ma": "A01214", "Ten": "Trồng táo, mận và các loại quả có hạt như táo" },
+  { "Ma": "A01215", "Ten": "Trồng nhãn, vải, chôm chôm" },
+  { "Ma": "A01219", "Ten": "Trồng cây ăn quả khác" },
+  { "Ma": "A01220", "Ten": "Trồng cây lấy quả chứa dầu" },
+  { "Ma": "A01230", "Ten": "Trồng cây điều" },
+  { "Ma": "A01240", "Ten": "Trồng cây hồ tiêu" },
+  { "Ma": "A01250", "Ten": "Trồng cây cao su" },
+  { "Ma": "A01260", "Ten": "Trồng cây cà phê" },
+  { "Ma": "A01270", "Ten": "Trồng cây chè" },
+  { "Ma": "A0128", "Ten": "Trồng cây gia vị, cây dược liệu" },
+  { "Ma": "A01281", "Ten": "Trồng cây gia vị" },
+  { "Ma": "A01282", "Ten": "Trồng cây dược liệu" },
+  { "Ma": "A01290", "Ten": "Trồng cây lâu năm khác" },
+  { "Ma": "A01300", "Ten": "Nhân và chăm sóc cây giống nông nghiệp" },
+  { "Ma": "A014", "Ten": "Chăn nuôi" },
+  { "Ma": "A01410", "Ten": "Chăn nuôi trâu, bò" },
+  { "Ma": "A01420", "Ten": "Chăn nuôi ngựa, lừa, la" },
+  { "Ma": "A01440", "Ten": "Chăn nuôi dê, cừu" },
+  { "Ma": "A01450", "Ten": "Chăn nuôi lợn" },
+  { "Ma": "A0146", "Ten": "Chăn nuôi gia cầm" },
+  { "Ma": "A01461", "Ten": "Hoạt động ấp trứng và sản xuất giống gia cầm" },
+  { "Ma": "A01462", "Ten": "Chăn nuôi gà" },
+  { "Ma": "A01463", "Ten": "Chăn nuôi vịt, ngan, ngỗng" },
+  { "Ma": "A01469", "Ten": "Chăn nuôi gia cầm khác" },
+  { "Ma": "A01490", "Ten": "Chăn nuôi khác" },
+  { "Ma": "A01500", "Ten": "Trồng trọt, chăn nuôi hỗn hợp" },
+  { "Ma": "A016", "Ten": "Hoạt động dịch vụ nông nghiệp" },
+  { "Ma": "A01610", "Ten": "Hoạt động dịch vụ trồng trọt" },
+  { "Ma": "A01620", "Ten": "Hoạt động dịch vụ chăn nuôi" },
+  { "Ma": "A01630", "Ten": "Hoạt động dịch vụ sau thu hoạch" },
+  { "Ma": "A01640", "Ten": "Xử lý hạt giống để nhân giống" },
+  {
+    "Ma": "A01700",
+    "Ten": "Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan"
+  },
+  { "Ma": "A02", "Ten": "Lâm nghiệp và hoạt động dịch vụ có liên quan" },
+  { "Ma": "A0210", "Ten": "Trồng rừng và chăm sóc rừng" },
+  { "Ma": "A02101", "Ten": "¦ơm giống cây lâm nghiệp" },
+  { "Ma": "A02102", "Ten": "Trồng rừng và chăm sóc rừng lấy gỗ" },
+  { "Ma": "A02103", "Ten": "Trồng rừng và chăm sóc rừng tre, nứa" },
+  { "Ma": "A02109", "Ten": "Trồng rừng và chăm sóc rừng khác" },
+  { "Ma": "A022", "Ten": "Khai thác gỗ và lâm sản khác" },
+  { "Ma": "A02210", "Ten": "Khai thác gỗ" },
+  { "Ma": "A02220", "Ten": "Khai thác lâm sản khác trừ gỗ" },
+  {
+    "Ma": "A02300",
+    "Ten": "Thu nhặt sản phẩm từ rừng không phải gỗ và lâm sản khác"
+  },
+  { "Ma": "A02400", "Ten": "Hoạt động dịch vụ lâm nghiệp" },
+  { "Ma": "A03", "Ten": "Khai thác, nuôi trồng thuỷ sản" },
+  { "Ma": "A031", "Ten": "Khai thác thuỷ sản" },
+  { "Ma": "A03110", "Ten": "Khai thác thuỷ sản biển" },
+  { "Ma": "A0312", "Ten": "Khai thác thuỷ sản nội địa" },
+  { "Ma": "A03121", "Ten": "Khai thác thuỷ sản nước lợ" },
+  { "Ma": "A03122", "Ten": "Khai thác thuỷ sản nước ngọt" },
+  { "Ma": "A032", "Ten": "Nuôi trồng thuỷ sản" },
+  { "Ma": "A03210", "Ten": "Nuôi trồng thuỷ sản biển" },
+  { "Ma": "A0322", "Ten": "Nuôi trồng thuỷ sản nội địa" },
+  { "Ma": "A03221", "Ten": "Nuôi trồng thuỷ sản nước lợ" },
+  { "Ma": "A03222", "Ten": "Nuôi trồng thuỷ sản nước ngọt" },
+  { "Ma": "A03230", "Ten": "Sản xuất giống thuỷ sản" },
+  { "Ma": "B", "Ten": "Khai khoáng" },
+  { "Ma": "B05", "Ten": "Khai thác than cứng và than non" },
+  { "Ma": "B05100", "Ten": "Khai thác và thu gom than cứng" },
+  { "Ma": "B05200", "Ten": "Khai thác và thu gom than non" },
+  { "Ma": "B06", "Ten": "Khai thác dầu thô và khí đốt tự nhiên" },
+  { "Ma": "B06100", "Ten": "Khai thác dầu thô" },
+  { "Ma": "B06200", "Ten": "Khai thác khí đốt tự nhiên" },
+  { "Ma": "B07", "Ten": "Khai thác quặng kim loại" },
+  { "Ma": "B07100", "Ten": "Khai thác quặng sắt" },
+  {
+    "Ma": "B072",
+    "Ten": "Khai thác quặng không chứa sắt (trừ quặng kim loại quý hiếm);"
+  },
+  { "Ma": "B07210", "Ten": "Khai thác quặng uranium và quặng thorium" },
+  { "Ma": "B0722", "Ten": "Khai thác quặng kim loại khác không chứa sắt" },
+  { "Ma": "B07221", "Ten": "Khai thác quặng bôxít" },
+  {
+    "Ma": "B07229",
+    "Ten": "Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu"
+  },
+  { "Ma": "B07300", "Ten": "Khai thác quặng kim loại quí hiếm" },
+  { "Ma": "B08", "Ten": "Khai khoáng khác" },
+  { "Ma": "B0810", "Ten": "Khai thác đá, cát, sỏi, đất sét" },
+  { "Ma": "B08101", "Ten": "Khai thác đá" },
+  { "Ma": "B08102", "Ten": "Khai thác cát, sỏi" },
+  { "Ma": "B08103", "Ten": "Khai thác đất sét" },
+  { "Ma": "B089", "Ten": "Khai khoáng chưa được phân vào đâu" },
+  { "Ma": "B08910", "Ten": "Khai thác khoáng hoá chất và khoáng phân bón" },
+  { "Ma": "B08920", "Ten": "Khai thác và thu gom than bùn" },
+  { "Ma": "B08930", "Ten": "Khai thác muối" },
+  { "Ma": "B08990", "Ten": "Khai khoáng khác chưa được phân vào đâu" },
+  { "Ma": "B09", "Ten": "Hoạt động dịch vụ hỗ trợ khai thác mỏ và quặng" },
+  {
+    "Ma": "B09100",
+    "Ten": "Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên"
+  },
+  {
+    "Ma": "B09900",
+    "Ten": "Hoạt động dịch vụ hỗ trợ khai thác mỏ và quặng khác"
+  },
+  { "Ma": "C", "Ten": "Công nghiệp chế biến, chế tạo" },
+  { "Ma": "C10", "Ten": "Sản xuất chế biến thực phẩm" },
+  { "Ma": "C1010", "Ten": "Chế biến, bảo quản thịt và các sản phẩm từ thịt" },
+  { "Ma": "C10101", "Ten": "Chế biến và đóng hộp thịt" },
+  {
+    "Ma": "C10109",
+    "Ten": "Chế biến và bảo quản thịt và các sản phẩm từ thịt khác"
+  },
+  {
+    "Ma": "C1020",
+    "Ten": "Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản"
+  },
+  { "Ma": "C10201", "Ten": "Chế biến và đóng hộp thuỷ sản" },
+  { "Ma": "C10202", "Ten": "Chế biến và bảo quản thuỷ sản đông lạnh" },
+  { "Ma": "C10203", "Ten": "Chế biến và bảo quản thuỷ sản khô" },
+  { "Ma": "C10204", "Ten": "Chế biến và bảo quản nước mắm" },
+  {
+    "Ma": "C10209",
+    "Ten": "Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản khác"
+  },
+  { "Ma": "C1030", "Ten": "Chế biến và bảo quản rau quả" },
+  { "Ma": "C10301", "Ten": "Chế biến và đóng hộp rau quả" },
+  { "Ma": "C10309", "Ten": "Chế biến và bảo quản rau quả khác" },
+  { "Ma": "C1040", "Ten": "Sản xuất dầu, mỡ động, thực vật" },
+  { "Ma": "C10401", "Ten": "Sản xuất và đóng hộp dầu, mỡ động, thực vật" },
+  { "Ma": "C10409", "Ten": "Chế biến và bảo quản dầu mỡ khác" },
+  { "Ma": "C10500", "Ten": "Chế biến sữa và các sản phẩm từ sữa" },
+  { "Ma": "C106", "Ten": "Xay xát và sản xuất bột" },
+  { "Ma": "C1061", "Ten": "Xay xát và sản xuất bột thô" },
+  { "Ma": "C10611", "Ten": "Xay xát" },
+  { "Ma": "C10612", "Ten": "Sản xuất bột thô" },
+  { "Ma": "C10620", "Ten": "Sản xuất tinh bột và các sản phẩm từ tinh bột" },
+  { "Ma": "C107", "Ten": "Sản xuất thực phẩm khác" },
+  { "Ma": "C10710", "Ten": "Sản xuất các loại bánh từ bột" },
+  { "Ma": "C10720", "Ten": "Sản xuất đường" },
+  { "Ma": "C10730", "Ten": "Sản xuất ca cao, sôcôla và mứt kẹo" },
+  { "Ma": "C10740", "Ten": "Sản xuất mì ống, mỳ sợi và sản phẩm tương tự" },
+  { "Ma": "C10750", "Ten": "Sản xuất món ăn, thức ăn chế biến sẵn" },
+  { "Ma": "C10790", "Ten": "Sản xuất thực phẩm khác chưa được phân vào đâu" },
+  { "Ma": "C10800", "Ten": "Sản xuất thức ăn gia súc, gia cầm và thuỷ sản" },
+  { "Ma": "C11", "Ten": "Sản xuất đồ uống" },
+  { "Ma": "C110", "Ten": "Sản xuất đồ uống" },
+  { "Ma": "C11010", "Ten": "Chưng, tinh cất và pha chế các loại rượu mạnh" },
+  { "Ma": "C11020", "Ten": "Sản xuất rượu vang" },
+  { "Ma": "C11030", "Ten": "Sản xuất bia và mạch nha ủ men bia" },
+  { "Ma": "C1104", "Ten": "Sản xuất đồ uống không cồn, nước khoáng" },
+  {
+    "Ma": "C11041",
+    "Ten": "Sản xuất nước khoáng, nước tinh khiết đóng chai"
+  },
+  { "Ma": "C11042", "Ten": "Sản xuất đồ uống không cồn" },
+  { "Ma": "C1200", "Ten": "Sản xuất sản phẩm thuốc lá" },
+  { "Ma": "C12001", "Ten": "Sản xuất thuốc lá" },
+  { "Ma": "C12009", "Ten": "Sản xuất thuốc hút khác" },
+  { "Ma": "C13", "Ten": "Dệt" },
+  {
+    "Ma": "C131",
+    "Ten": "Sản xuất sợi, vải dệt thoi và hoàn thiện sản phẩm dệt"
+  },
+  { "Ma": "C13110", "Ten": "Sản xuất sợi" },
+  { "Ma": "C13120", "Ten": "Sản xuất vải dệt thoi" },
+  { "Ma": "C13130", "Ten": "Hoàn thiện sản phẩm dệt" },
+  { "Ma": "C132", "Ten": "Sản xuất hàng dệt khác" },
+  {
+    "Ma": "C13210",
+    "Ten": "Sản xuất vải dệt kim, vải đan móc và vải không dệt khác"
+  },
+  { "Ma": "C13220", "Ten": "Sản xuất hàng may sẵn (trừ trang phục);" },
+  { "Ma": "C13230", "Ten": "Sản xuất thảm, chăn đệm" },
+  { "Ma": "C13240", "Ten": "Sản xuất các loại dây bện và lưới" },
+  {
+    "Ma": "C13290",
+    "Ten": "Sản xuất các loại hàng dệt khác chưa được phân vào đâu"
+  },
+  { "Ma": "C14", "Ten": "Sản xuất trang phục" },
+  {
+    "Ma": "C14100",
+    "Ten": "May trang phục (trừ trang phục từ da lông thú);"
+  },
+  { "Ma": "C14200", "Ten": "Sản xuất sản phẩm từ da lông thú" },
+  { "Ma": "C14300", "Ten": "Sản xuất trang phục dệt kim, đan móc" },
+  { "Ma": "C15", "Ten": "Sản xuất da và các sản phẩm có liên quan" },
+  {
+    "Ma": "C151",
+    "Ten": "Thuộc, sơ chế da; sản xuất va li, túi sách, yên đệm; sơ chế và nhuộm da lông thú"
+  },
+  { "Ma": "C15110", "Ten": "Thuộc, sơ chế da; sơ chế và nhuộm da lông thú" },
+  {
+    "Ma": "C15120",
+    "Ten": "Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm"
+  },
+  { "Ma": "C15200", "Ten": "Sản xuất giày dép" },
+  {
+    "Ma": "C16",
+    "Ten": "Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế);; sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  { "Ma": "C1610", "Ten": "Cưa, xẻ, bào gỗ và bảo quản gỗ" },
+  { "Ma": "C16101", "Ten": "Cưa, xẻ và bào gỗ" },
+  { "Ma": "C16102", "Ten": "Bảo quản gỗ" },
+  {
+    "Ma": "C162",
+    "Ten": "Sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế);; sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "Ma": "C16210",
+    "Ten": "Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác"
+  },
+  { "Ma": "C16220", "Ten": "Sản xuất đồ gỗ xây dựng" },
+  { "Ma": "C16230", "Ten": "Sản xuất bao bì bằng gỗ" },
+  {
+    "Ma": "C1629",
+    "Ten": "Sản xuất sản phẩm khác từ gỗ; sản xuất sản phẩm từ tre, nứa, rơm, rạ và vật liệu tết bện"
+  },
+  { "Ma": "C16291", "Ten": "Sản xuất sản phẩm khác từ gỗ" },
+  {
+    "Ma": "C16292",
+    "Ten": "Sản xuất sản phẩm từ lâm sản (trừ gỗ);, cói và vật liệu tết bện"
+  },
+  { "Ma": "C17", "Ten": "Sản xuất giấy và sản phẩm từ giấy" },
+  { "Ma": "C170", "Ten": "Sản xuất giấy và sản phẩm từ giấy" },
+  { "Ma": "C17010", "Ten": "Sản xuất bột giấy, giấy và bìa" },
+  {
+    "Ma": "C1702",
+    "Ten": "Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa"
+  },
+  { "Ma": "C17021", "Ten": "Sản xuất bao bì bằng giấy, bìa" },
+  { "Ma": "C17022", "Ten": "Sản xuất giấy nhăn và bìa nhăn" },
+  {
+    "Ma": "C17090",
+    "Ten": "Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu"
+  },
+  { "Ma": "C18", "Ten": "In, sao chép bản ghi các loại" },
+  { "Ma": "C181", "Ten": "In ấn và dịch vụ liên quan đến in" },
+  { "Ma": "C18110", "Ten": "In ấn" },
+  { "Ma": "C18120", "Ten": "Dịch vụ liên quan đến in" },
+  { "Ma": "C18200", "Ten": "Sao chép bản ghi các loại" },
+  { "Ma": "C19", "Ten": "Sản xuất than cốc, sản phẩm dầu mỏ tinh chế" },
+  { "Ma": "C19100", "Ten": "Sản xuất than cốc" },
+  { "Ma": "C19200", "Ten": "Sản xuất sản phẩm dầu mỏ tinh chế" },
+  { "Ma": "C20", "Ten": "Sản xuất hoá chất và sản phẩm hoá chất" },
+  {
+    "Ma": "C201",
+    "Ten": "Sản xuất hoá chất cơ bản, phân bón và hợp chất ni tơ; sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  { "Ma": "C20110", "Ten": "Sản xuất hoá chất cơ bản" },
+  { "Ma": "C20120", "Ten": "Sản xuất phân bón và hợp chất ni tơ" },
+  {
+    "Ma": "C2013",
+    "Ten": "Sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  { "Ma": "C20131", "Ten": "Sản xuất plastic nguyên sinh" },
+  { "Ma": "C20132", "Ten": "Sản xuất cao su tổng hợp dạng nguyên sinh" },
+  { "Ma": "C202", "Ten": "Sản xuất sản phẩm hoá chất khác" },
+  {
+    "Ma": "C20210",
+    "Ten": "Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp"
+  },
+  {
+    "Ma": "C2022",
+    "Ten": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự; sản xuất mực in và ma tít"
+  },
+  {
+    "Ma": "C20221",
+    "Ten": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít"
+  },
+  { "Ma": "C20222", "Ten": "Sản xuất mực in" },
+  {
+    "Ma": "C2023",
+    "Ten": "Sản xuất mỹ phẩm, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  { "Ma": "C20231", "Ten": "Sản xuất mỹ phẩm" },
+  {
+    "Ma": "C20232",
+    "Ten": "Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "Ma": "C20290",
+    "Ten": "Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu"
+  },
+  { "Ma": "C20300", "Ten": "Sản xuất sợi nhân tạo" },
+  { "Ma": "C21", "Ten": "Sản xuất thuốc, hoá dược và dược liệu" },
+  { "Ma": "C2100", "Ten": "Sản xuất thuốc, hoá dược và dược liệu" },
+  { "Ma": "C21001", "Ten": "Sản xuất thuốc các loại" },
+  { "Ma": "C21002", "Ten": "Sản xuất hoá dược và dược liệu" },
+  { "Ma": "C22", "Ten": "Sản xuất sản phẩm từ cao su và plastic" },
+  { "Ma": "C221", "Ten": "Sản xuất sản phẩm từ cao su" },
+  {
+    "Ma": "C22110",
+    "Ten": "Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su"
+  },
+  { "Ma": "C22120", "Ten": "Sản xuất sản phẩm khác từ cao su" },
+  { "Ma": "C2220", "Ten": "Sản xuất sản phẩm từ plastic" },
+  { "Ma": "C22201", "Ten": "Sản xuất bao bì từ plastic" },
+  { "Ma": "C22209", "Ten": "Sản xuất sản phẩm khác từ plastic" },
+  { "Ma": "C23", "Ten": "Sản xuất sản phẩm từ khoáng phi kim loại khác" },
+  { "Ma": "C23100", "Ten": "Sản xuất thuỷ tinh và sản phẩm từ thuỷ tinh" },
+  {
+    "Ma": "C239",
+    "Ten": "Sản xuất sản phẩm từ khoáng phi kim loại chưa được phân vào đâu"
+  },
+  { "Ma": "C23910", "Ten": "Sản xuất sản phẩm chịu lửa" },
+  { "Ma": "C23920", "Ten": "Sản xuất vật liệu xây dựng từ đất sét" },
+  { "Ma": "C23930", "Ten": "Sản xuất sản phẩm gốm sứ khác" },
+  { "Ma": "C2394", "Ten": "Sản xuất xi măng, vôi và thạch cao" },
+  { "Ma": "C23941", "Ten": "Sản xuất xi măng" },
+  { "Ma": "C23942", "Ten": "Sản xuất vôi" },
+  { "Ma": "C23943", "Ten": "Sản xuất thạch cao" },
+  {
+    "Ma": "C23950",
+    "Ten": "Sản xuất bê tông và các sản phẩm từ xi măng và thạch cao"
+  },
+  { "Ma": "C23960", "Ten": "Cắt tạo dáng và hoàn thiện đá" },
+  {
+    "Ma": "C23990",
+    "Ten": "Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu"
+  },
+  { "Ma": "C24", "Ten": "Sản xuất kim loại" },
+  { "Ma": "C24100", "Ten": "Sản xuất sắt, thép, gang" },
+  { "Ma": "C24200", "Ten": "Sản xuất kim loại màu và kim loại quý" },
+  { "Ma": "C243", "Ten": "Đúc kim loại" },
+  { "Ma": "C24310", "Ten": "Đúc sắt thép" },
+  { "Ma": "C24320", "Ten": "Đúc kim loại màu" },
+  {
+    "Ma": "C25",
+    "Ten": "Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị);"
+  },
+  {
+    "Ma": "C251",
+    "Ten": "Sản xuất các cấu kiện kim loại, thùng, bể chứa và nồi hơi"
+  },
+  { "Ma": "C25110", "Ten": "Sản xuất các cấu kiện kim loại" },
+  {
+    "Ma": "C25120",
+    "Ten": "Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại"
+  },
+  { "Ma": "C25130", "Ten": "Sản xuất nồi hơi (trừ nồi hơi trung tâm);" },
+  { "Ma": "C25200", "Ten": "Sản xuất vũ khí và đạn dược" },
+  {
+    "Ma": "C259",
+    "Ten": "Sản xuất sản phẩm khác bằng kim loại; các dịch vụ xử lý, gia công kim loại"
+  },
+  {
+    "Ma": "C25910",
+    "Ten": "Rèn, dập, ép và cán kim loại; luyện bột kim loại"
+  },
+  { "Ma": "C25920", "Ten": "Gia công cơ khí; xử lý và tráng phủ kim loại" },
+  {
+    "Ma": "C25930",
+    "Ten": "Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng"
+  },
+  {
+    "Ma": "C2599",
+    "Ten": "Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "Ma": "C25991",
+    "Ten": "Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn"
+  },
+  {
+    "Ma": "C25999",
+    "Ten": "Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "Ma": "C26",
+    "Ten": "Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học"
+  },
+  { "Ma": "C26100", "Ten": "Sản xuất linh kiện điện tử" },
+  {
+    "Ma": "C26200",
+    "Ten": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính"
+  },
+  { "Ma": "C26300", "Ten": "Sản xuất thiết bị truyền thông" },
+  { "Ma": "C26400", "Ten": "Sản xuất sản phẩm điện tử dân dụng" },
+  {
+    "Ma": "C265",
+    "Ten": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển; sản xuất đồng hồ"
+  },
+  {
+    "Ma": "C26510",
+    "Ten": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển"
+  },
+  { "Ma": "C26520", "Ten": "Sản xuất đồng hồ" },
+  {
+    "Ma": "C26600",
+    "Ten": "Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp"
+  },
+  { "Ma": "C26700", "Ten": "Sản xuất thiết bị và dụng cụ quang học" },
+  { "Ma": "C26800", "Ten": "Sản xuất băng, đĩa từ tính và quang học" },
+  { "Ma": "C27", "Ten": "Sản xuất thiết bị điện" },
+  {
+    "Ma": "C2710",
+    "Ten": "Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  { "Ma": "C27101", "Ten": "Sản xuất mô tơ, máy phát" },
+  {
+    "Ma": "C27102",
+    "Ten": "Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  { "Ma": "C27200", "Ten": "Sản xuất pin và ắc quy" },
+  { "Ma": "C273", "Ten": "Sản xuất dây và thiết bị dây dẫn" },
+  { "Ma": "C27310", "Ten": "Sản xuất dây cáp, sợi cáp quang học" },
+  { "Ma": "C27320", "Ten": "Sản xuất dây, cáp điện và điện tử khác" },
+  { "Ma": "C27330", "Ten": "Sản xuất thiết bị dây dẫn điện các loại" },
+  { "Ma": "C27400", "Ten": "Sản xuất thiết bị điện chiếu sáng" },
+  { "Ma": "C27500", "Ten": "Sản xuất đồ điện dân dụng" },
+  { "Ma": "C27900", "Ten": "Sản xuất thiết bị điện khác" },
+  { "Ma": "C28", "Ten": "Sản xuất máy móc, thiết bị chưa được phân vào đâu" },
+  { "Ma": "C281", "Ten": "Sản xuất máy thông dụng" },
+  {
+    "Ma": "C28110",
+    "Ten": "Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy);"
+  },
+  { "Ma": "C28120", "Ten": "Sản xuất thiết bị sử dụng năng lượng chiết lưu" },
+  { "Ma": "C28130", "Ten": "Sản xuất máy bơm, máy nén, vòi và van khác" },
+  {
+    "Ma": "C28140",
+    "Ten": "Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động"
+  },
+  { "Ma": "C28150", "Ten": "Sản xuất lò nướng, lò luyện và lò nung" },
+  { "Ma": "C28160", "Ten": "Sản xuất các thiết bị nâng, hạ và bốc xếp" },
+  {
+    "Ma": "C28170",
+    "Ten": "Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính);"
+  },
+  {
+    "Ma": "C28180",
+    "Ten": "Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén"
+  },
+  { "Ma": "C28190", "Ten": "Sản xuất máy thông dụng khác" },
+  { "Ma": "C282", "Ten": "Sản xuất máy chuyên dụng" },
+  { "Ma": "C28210", "Ten": "Sản xuất máy nông nghiệp và lâm nghiệp" },
+  { "Ma": "C28220", "Ten": "Sản xuất máy công cụ và máy tạo hình kim loại" },
+  { "Ma": "C28230", "Ten": "Sản xuất máy luyện kim" },
+  { "Ma": "C28240", "Ten": "Sản xuất máy khai thác mỏ và xây dựng" },
+  {
+    "Ma": "C28250",
+    "Ten": "Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá"
+  },
+  { "Ma": "C28260", "Ten": "Sản xuất máy cho ngành dệt, may và da" },
+  { "Ma": "C2829", "Ten": "Sản xuất máy chuyên dụng khác" },
+  { "Ma": "C28291", "Ten": "Sản xuất máy sản xuất vật liệu xây dựng" },
+  {
+    "Ma": "C28299",
+    "Ten": "Sản xuất máy chuyên dụng khác chưa được phân vào đâu"
+  },
+  { "Ma": "C29", "Ten": "Sản xuất xe có động cơ, rơ moóc" },
+  { "Ma": "C29100", "Ten": "Sản xuất xe có động cơ" },
+  {
+    "Ma": "C29200",
+    "Ten": "Sản xuất thân xe có động cơ, rơ moóc và bán rơ moóc"
+  },
+  {
+    "Ma": "C29300",
+    "Ten": "Sản xuất phụ tùng và bộ phận phụ trợ cho xe có động cơ"
+  },
+  { "Ma": "C30", "Ten": "Sản xuất phương tiện vận tải khác" },
+  { "Ma": "C301", "Ten": "Đóng tàu và thuyền" },
+  { "Ma": "C30110", "Ten": "Đóng tàu và cấu kiện nổi" },
+  { "Ma": "C30120", "Ten": "Đóng thuyền, xuồng thể thao và giải trí" },
+  { "Ma": "C30200", "Ten": "Sản xuất đầu máy xe lửa, xe điện và toa xe" },
+  {
+    "Ma": "C30300",
+    "Ten": "Sản xuất máy bay, tàu vũ trụ và máy móc liên quan"
+  },
+  {
+    "Ma": "C30400",
+    "Ten": "Sản xuất xe cơ giới chiến đấu dùng trong quân đội"
+  },
+  {
+    "Ma": "C309",
+    "Ten": "Sản xuất phương tiện và thiết bị vận tải chưa được phân vào đâu"
+  },
+  { "Ma": "C30910", "Ten": "Sản xuất mô tô, xe máy" },
+  { "Ma": "C30920", "Ten": "Sản xuất xe đạp và xe cho người tàn tật" },
+  {
+    "Ma": "C30990",
+    "Ten": "Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu"
+  },
+  { "Ma": "C3100", "Ten": "Sản xuất giường, tủ, bàn, ghế" },
+  { "Ma": "C31001", "Ten": "Sản xuất giường, tủ, bàn, ghế bằng gỗ" },
+  {
+    "Ma": "C31009",
+    "Ten": "Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác"
+  },
+  { "Ma": "C32", "Ten": "Công nghiệp chế biến, chế tạo khác" },
+  {
+    "Ma": "C321",
+    "Ten": "Sản xuất đồ kim hoàn, đồ giả kim hoàn và các chi tiết liên quan"
+  },
+  { "Ma": "C32110", "Ten": "Sản xuất đồ kim hoàn và chi tiết liên quan" },
+  { "Ma": "C32120", "Ten": "Sản xuất đồ giả kim hoàn và chi tiết liên quan" },
+  { "Ma": "C32200", "Ten": "Sản xuất nhạc cụ" },
+  { "Ma": "C32300", "Ten": "Sản xuất dụng cụ thể dục, thể thao" },
+  { "Ma": "C32400", "Ten": "Sản xuất đồ chơi, trò chơi" },
+  {
+    "Ma": "C3250",
+    "Ten": "Sản xuất thiết bị, dụng cụ y tế, nha khoa, chỉnh hình và phục hồi chức năng"
+  },
+  { "Ma": "C32501", "Ten": "Sản xuất thiết bị, dụng cụ y tế, nha khoa" },
+  {
+    "Ma": "C32502",
+    "Ten": "Sản xuất dụng cụ chỉnh hình, phục hồi chức năng"
+  },
+  { "Ma": "C32900", "Ten": "Sản xuất khác chưa được phân vào đâu" },
+  {
+    "Ma": "C33",
+    "Ten": "Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị"
+  },
+  {
+    "Ma": "C331",
+    "Ten": "Sửa chữa và bảo dưỡng máy móc, thiết bị và sản phẩm kim loại đúc sẵn"
+  },
+  { "Ma": "C33110", "Ten": "Sửa chữa các sản phẩm kim loại đúc sẵn" },
+  { "Ma": "C33120", "Ten": "Sửa chữa máy móc, thiết bị" },
+  { "Ma": "C33130", "Ten": "Sửa chữa thiết bị điện tử và quang học" },
+  { "Ma": "C33140", "Ten": "Sửa chữa thiết bị điện" },
+  {
+    "Ma": "C33150",
+    "Ten": "Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác);"
+  },
+  { "Ma": "C33190", "Ten": "Sửa chữa thiết bị khác" },
+  { "Ma": "C33200", "Ten": "Lắp đặt máy móc và thiết bị công nghiệp" },
+  {
+    "Ma": "D",
+    "Ten": "Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí"
+  },
+  {
+    "Ma": "D35",
+    "Ten": "Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí"
+  },
+  { "Ma": "D3510", "Ten": "Sản xuất, truyền tải và phân phối điện" },
+  { "Ma": "D35101", "Ten": "Sản xuất điện" },
+  { "Ma": "D35102", "Ten": "Truyền tải và phân phối điện" },
+  {
+    "Ma": "D35200",
+    "Ten": "Sản xuất khí đốt, phân phối nhiên liệu khí bằng đường ống"
+  },
+  {
+    "Ma": "D3530",
+    "Ten": "Sản xuất, phân phối hơi nước, nước nóng, điều hoà không khí và sản xuất nước đá"
+  },
+  {
+    "Ma": "D35301",
+    "Ten": "Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí"
+  },
+  { "Ma": "D35302", "Ten": "Sản xuất nước đá" },
+  {
+    "Ma": "E",
+    "Ten": "Cung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải"
+  },
+  { "Ma": "E36000", "Ten": "Khai thác, xử lý và cung cấp nước" },
+  { "Ma": "E37", "Ten": "Thoát nước và xử lý nước thải" },
+  { "Ma": "E3700", "Ten": "Thoát nước và xử lý nước thải" },
+  { "Ma": "E37001", "Ten": "Thoát nước" },
+  { "Ma": "E37002", "Ten": "Xử lý nước thải" },
+  {
+    "Ma": "E38",
+    "Ten": "Hoạt động thu gom, xử lý và tiêu huỷ rác thải; tái chế phế liệu"
+  },
+  { "Ma": "E381", "Ten": "Thu gom rác thải" },
+  { "Ma": "E38110", "Ten": "Thu gom rác thải không độc hại" },
+  { "Ma": "E3812", "Ten": "Thu gom rác thải độc hại" },
+  { "Ma": "E38121", "Ten": "Thu gom rác thải y tế" },
+  { "Ma": "E38129", "Ten": "Thu gom rác thải độc hại khác" },
+  { "Ma": "E382", "Ten": "Xử lý và tiêu huỷ rác thải" },
+  { "Ma": "E38210", "Ten": "Xử lý và tiêu huỷ rác thải không độc hại" },
+  { "Ma": "E3822", "Ten": "Xử lý và tiêu huỷ rác thải độc hại" },
+  { "Ma": "E38221", "Ten": "Xử lý và tiêu huỷ rác thải y tế" },
+  { "Ma": "E38229", "Ten": "Xử lý và tiêu huỷ rác thải độc hại khác" },
+  { "Ma": "E3830", "Ten": "Tái chế phế liệu" },
+  { "Ma": "E38301", "Ten": "Tái chế phế liệu kim loại" },
+  { "Ma": "E38302", "Ten": "Tái chế phế liệu phi kim loại" },
+  {
+    "Ma": "E39000",
+    "Ten": "Xử lý ô nhiễm và hoạt động quản lý chất thải khác"
+  },
+  { "Ma": "F", "Ten": "Xây dựng" },
+  { "Ma": "F41000", "Ten": "Xây dựng nhà các loại" },
+  { "Ma": "F42", "Ten": "Xây dựng công trình kỹ thuật dân dụng" },
+  { "Ma": "F4210", "Ten": "Xây dựng công trình đường sắt và đường bộ" },
+  { "Ma": "F42101", "Ten": "Xây dựng công trình đường sắt" },
+  { "Ma": "F42102", "Ten": "Xây dựng công trình đường bộ" },
+  { "Ma": "F42200", "Ten": "Xây dựng công trình công ích" },
+  { "Ma": "F42900", "Ten": "Xây dựng công trình kỹ thuật dân dụng khác" },
+  { "Ma": "F43", "Ten": "Hoạt động xây dựng chuyên dụng" },
+  { "Ma": "F431", "Ten": "Phá dỡ và chuẩn bị mặt bằng" },
+  { "Ma": "F43110", "Ten": "Phá dỡ" },
+  { "Ma": "F43120", "Ten": "Chuẩn bị mặt bằng" },
+  {
+    "Ma": "F432",
+    "Ten": "Lắp đặt hệ thống điện, hệ thống cấp thoát nước và lắp đặt xây dựng khác"
+  },
+  { "Ma": "F43210", "Ten": "Lắp đặt hệ thống điện" },
+  {
+    "Ma": "F4322",
+    "Ten": "Lắp đặt hệ thống cấp, thoát nước, lò sưởi và điều hoà không khí"
+  },
+  { "Ma": "F43221", "Ten": "Lắp đặt hệ thống cấp, thoát nước" },
+  { "Ma": "F43222", "Ten": "Lắp đặt hệ thống lò sưởi và điều hoà không khí" },
+  { "Ma": "F43290", "Ten": "Lắp đặt hệ thống xây dựng khác" },
+  { "Ma": "F43300", "Ten": "Hoàn thiện công trình xây dựng" },
+  { "Ma": "F43900", "Ten": "Hoạt động xây dựng chuyên dụng khác" },
+  {
+    "Ma": "G",
+    "Ten": "Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác"
+  },
+  {
+    "Ma": "G45",
+    "Ten": "Bán, sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác"
+  },
+  { "Ma": "G451", "Ten": "Bán ô tô và xe có động cơ khác" },
+  { "Ma": "G4511", "Ten": "Bán buôn ô tô và xe có động cơ khác" },
+  {
+    "Ma": "G45111",
+    "Ten": "Bán buôn ô tô con (loại 12 chỗ ngồi trở xuống);"
+  },
+  { "Ma": "G45119", "Ten": "Bán buôn xe có động cơ khác" },
+  { "Ma": "G45120", "Ten": "Bán lẻ ô tô con (loại 12 chỗ ngồi trở xuống);" },
+  { "Ma": "G4513", "Ten": "Đại lý ô tô và xe có động cơ khác" },
+  { "Ma": "G45131", "Ten": "Đại lý ô tô con (loại 12 chỗ ngồi trở xuống);" },
+  { "Ma": "G45139", "Ten": "Đại lý xe có động cơ khác" },
+  { "Ma": "G45200", "Ten": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác" },
+  {
+    "Ma": "G4530",
+    "Ten": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "Ma": "G45301",
+    "Ten": "Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "Ma": "G45302",
+    "Ten": "Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 12 chỗ ngồi trở xuống);"
+  },
+  {
+    "Ma": "G45303",
+    "Ten": "Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "Ma": "G454",
+    "Ten": "Bán, bảo dưỡng và sửa chữa mô tô, xe máy, phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  { "Ma": "G4541", "Ten": "Bán mô tô, xe máy" },
+  { "Ma": "G45411", "Ten": "Bán buôn mô tô, xe máy" },
+  { "Ma": "G45412", "Ten": "Bán lẻ mô tô, xe máy" },
+  { "Ma": "G45413", "Ten": "Đại lý mô tô, xe máy" },
+  { "Ma": "G45420", "Ten": "Bảo dưỡng và sửa chữa mô tô, xe máy" },
+  { "Ma": "G4543" },
+  {
+    "Ma": "G4543",
+    "Ten": "Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "Ma": "G45431",
+    "Ten": "Bán buôn phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "Ma": "G45432",
+    "Ten": "Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "Ma": "G45433",
+    "Ten": "Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "Ma": "G46",
+    "Ten": "Bán buôn (trừ ô tô, mô tô, xe máy và xe có động cơ khác);"
+  },
+  { "Ma": "G4610", "Ten": "Đại lý, môi giới, đấu giá" },
+  { "Ma": "G46101", "Ten": "Đại lý" },
+  { "Ma": "G46102", "Ten": "Môi giới" },
+  { "Ma": "G46103", "Ten": "Đấu giá" },
+  {
+    "Ma": "G4620",
+    "Ten": "Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa); và động vật sống"
+  },
+  {
+    "Ma": "G46201",
+    "Ten": "Bán buôn thóc, ngô và các loại hạt ngũ cốc khác"
+  },
+  { "Ma": "G46202", "Ten": "Bán buôn hoa và cây" },
+  { "Ma": "G46203", "Ten": "Bán buôn động vật sống" },
+  {
+    "Ma": "G46204",
+    "Ten": "Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thuỷ sản"
+  },
+  {
+    "Ma": "G46209",
+    "Ten": "Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa);"
+  },
+  {
+    "Ma": "G463",
+    "Ten": "Bán buôn gạo, thực phẩm, đồ uống và sản phẩm thuốc lá, thuốc lào"
+  },
+  { "Ma": "G46310", "Ten": "Bán buôn gạo" },
+  { "Ma": "G4632", "Ten": "Bán buôn thực phẩm" },
+  { "Ma": "G46321", "Ten": "Bán buôn thịt và các sản phẩm từ thịt" },
+  { "Ma": "G46322", "Ten": "Bán buôn thủy sản" },
+  { "Ma": "G46323", "Ten": "Bán buôn rau, quả" },
+  { "Ma": "G46324", "Ten": "Bán buôn cà phê" },
+  { "Ma": "G46325", "Ten": "Bán buôn chè" },
+  {
+    "Ma": "G46326",
+    "Ten": "Bán buôn đường, sữa và các sản phẩm sữa, bánh kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột"
+  },
+  { "Ma": "G46329", "Ten": "Bán buôn thực phẩm khác" },
+  { "Ma": "G4633", "Ten": "Bán buôn đồ uống" },
+  { "Ma": "G46331", "Ten": "Bán buôn đồ uống có cồn" },
+  { "Ma": "G46332", "Ten": "Bán buôn đồ uống không có cồn" },
+  { "Ma": "G46340", "Ten": "Bán buôn sản phẩm thuốc lá, thuốc lào" },
+  { "Ma": "G464", "Ten": "Bán buôn đồ dùng gia đình" },
+  { "Ma": "G4641", "Ten": "Bán buôn vải, hàng may sẵn, giày dép" },
+  { "Ma": "G46411", "Ten": "Bán buôn vải" },
+  {
+    "Ma": "G46412",
+    "Ten": "Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác"
+  },
+  { "Ma": "G46413", "Ten": "Bán buôn hàng may mặc" },
+  { "Ma": "G46414", "Ten": "Bán buôn giày dép" },
+  { "Ma": "G4649", "Ten": "Bán buôn đồ dùng khác cho gia đình" },
+  {
+    "Ma": "G46491",
+    "Ten": "Bán buôn vali, cặp, túi, ví, hàng da và giả da khác"
+  },
+  { "Ma": "G46492", "Ten": "Bán buôn dược phẩm và dụng cụ y tế" },
+  {
+    "Ma": "G46493",
+    "Ten": "Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh"
+  },
+  { "Ma": "G46494", "Ten": "Bán buôn hàng gốm, sứ, thủy tinh" },
+  { "Ma": "G46495", "Ten": "Bán buôn đồ điện gia dụng, đèn và bộ đèn điện" },
+  {
+    "Ma": "G46496",
+    "Ten": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự"
+  },
+  { "Ma": "G46497", "Ten": "Bán buôn sách, báo, tạp chí, văn phòng phẩm" },
+  { "Ma": "G46498", "Ten": "Bán buôn dụng cụ thể dục, thể thao" },
+  {
+    "Ma": "G46499",
+    "Ten": "Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu"
+  },
+  { "Ma": "G465", "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy" },
+  {
+    "Ma": "G46510",
+    "Ten": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm"
+  },
+  {
+    "Ma": "G46520",
+    "Ten": "Bán buôn thiết bị và linh kiện điện tử, viễn thông"
+  },
+  {
+    "Ma": "G46530",
+    "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp"
+  },
+  { "Ma": "G4659", "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy khác" },
+  {
+    "Ma": "G46591",
+    "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng"
+  },
+  {
+    "Ma": "G46592",
+    "Ten": "Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị khác dùng trong mạch điện);"
+  },
+  {
+    "Ma": "G46593",
+    "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày"
+  },
+  {
+    "Ma": "G46594",
+    "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi);"
+  },
+  { "Ma": "G46595", "Ten": "Bán buôn máy móc, thiết bị y tế" },
+  {
+    "Ma": "G46599",
+    "Ten": "Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu"
+  },
+  { "Ma": "G466", "Ten": "Bán buôn chuyên doanh khác" },
+  {
+    "Ma": "G4661",
+    "Ten": "Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan"
+  },
+  { "Ma": "G46611", "Ten": "Bán buôn than đá và nhiên liệu rắn khác" },
+  { "Ma": "G46612", "Ten": "Bán buôn dầu thô" },
+  { "Ma": "G46613", "Ten": "Bán buôn xăng dầu và các sản phẩm liên quan" },
+  { "Ma": "G46614", "Ten": "Bán buôn khí đốt và các sản phẩm liên quan" },
+  { "Ma": "G4662", "Ten": "Bán buôn kim loại và quặng kim loại" },
+  { "Ma": "G46621", "Ten": "Bán buôn quặng kim loại" },
+  { "Ma": "G46622", "Ten": "Bán buôn sắt, thép" },
+  { "Ma": "G46623", "Ten": "Bán buôn kim loại khác" },
+  { "Ma": "G46624", "Ten": "Bán buôn vàng, bạc và kim loại quý khác" },
+  {
+    "Ma": "G4663",
+    "Ten": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  { "Ma": "G46631", "Ten": "Bán buôn tre, nứa, gỗ cây và gỗ chế biến" },
+  { "Ma": "G46632", "Ten": "Bán buôn xi măng" },
+  { "Ma": "G46633", "Ten": "Bán buôn gạch xây, ngói, đá, cát, sỏi" },
+  { "Ma": "G46634", "Ten": "Bán buôn kính xây dựng" },
+  { "Ma": "G46635", "Ten": "Bán buôn sơn, vécni" },
+  { "Ma": "G46636", "Ten": "Bán buôn gạch ốp lát và thiết bị vệ sinh" },
+  { "Ma": "G46637", "Ten": "Bán buôn đồ ngũ kim" },
+  {
+    "Ma": "G46639",
+    "Ten": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  {
+    "Ma": "G4669",
+    "Ten": "Bán buôn chuyên doanh khác chưa được phân vào đâu"
+  },
+  {
+    "Ma": "G46691",
+    "Ten": "Bán buôn phân bón, thuốc trừ sâu và hóa chất khác sử dụng trong nông nghiệp"
+  },
+  {
+    "Ma": "G46692",
+    "Ten": "Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp);"
+  },
+  { "Ma": "G46693", "Ten": "Bán buôn chất dẻo dạng nguyên sinh" },
+  { "Ma": "G46694", "Ten": "Bán buôn cao su" },
+  { "Ma": "G46695", "Ten": "Bán buôn tơ, xơ, sợi dệt" },
+  { "Ma": "G46696", "Ten": "Bán buôn phụ liệu may mặc và giày dép" },
+  {
+    "Ma": "G46697",
+    "Ten": "Bán buôn phế liệu, phế thải kim loại, phi kim loại"
+  },
+  {
+    "Ma": "G46699",
+    "Ten": "Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu"
+  },
+  { "Ma": "G46900", "Ten": "Bán buôn tổng hợp" },
+  {
+    "Ma": "G47",
+    "Ten": "Bán lẻ (trừ ô tô, mô tô, xe máy và xe có động cơ khác);"
+  },
+  { "Ma": "G471", "Ten": "Bán lẻ trong các cửa hàng kinh doanh tổng hợp" },
+  {
+    "Ma": "G47110",
+    "Ten": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "Ma": "G4719",
+    "Ten": "Bán lẻ khác trong các cửa hàng kinh doanh tổng hợp"
+  },
+  { "Ma": "G47191", "Ten": "Bán lẻ trong siêu thị, trung tâm thương mại" },
+  {
+    "Ma": "G47199",
+    "Ten": "Bán lẻ khác chưa được phân vào đâu trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "Ma": "G472",
+    "Ten": "Bán lẻ lương thực, thực phẩm, đồ uống hoặc thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47210",
+    "Ten": "Bán lẻ lương thực trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4722",
+    "Ten": "Bán lẻ thực phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47221",
+    "Ten": "Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47222",
+    "Ten": "Bán lẻ thủy sản trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47223",
+    "Ten": "Bán lẻ rau, quả trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47224",
+    "Ten": "Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47229",
+    "Ten": "Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh"
+  },
+  { "Ma": "G47230", "Ten": "Bán lẻ đồ uống trong các cửa hàng chuyên doanh" },
+  {
+    "Ma": "G47240",
+    "Ten": "Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47300",
+    "Ten": "Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G474",
+    "Ten": "Bán lẻ thiết bị công nghệ thông tin liên lạc trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4741",
+    "Ten": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47411",
+    "Ten": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47412",
+    "Ten": "Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47420",
+    "Ten": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G475",
+    "Ten": "Bán lẻ thiết bị gia đình khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4751",
+    "Ten": "Bán lẻ vải, len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  { "Ma": "G47511", "Ten": "Bán lẻ vải trong các cửa hàng chuyên doanh" },
+  {
+    "Ma": "G47519",
+    "Ten": "Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4752",
+    "Ten": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47521",
+    "Ten": "Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47522",
+    "Ten": "Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47523",
+    "Ten": "Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47524",
+    "Ten": "Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi và vật liệu xây dựng khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47525",
+    "Ten": "Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47529",
+    "Ten": "Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47530",
+    "Ten": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4759",
+    "Ten": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47591",
+    "Ten": "Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47592",
+    "Ten": "Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47593",
+    "Ten": "Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh"
+  },
+  { "Ma": "G47594", "Ten": "Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh" },
+  {
+    "Ma": "G47599",
+    "Ten": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G476",
+    "Ten": "Bán lẻ hàng văn hóa, giải trí trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47610",
+    "Ten": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47620",
+    "Ten": "Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng); trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47630",
+    "Ten": "Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47640",
+    "Ten": "Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G477",
+    "Ten": "Bán lẻ hàng hóa khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4771",
+    "Ten": "Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47711",
+    "Ten": "Bán lẻ hàng may mặc trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47712",
+    "Ten": "Bán lẻ giày dép trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47713",
+    "Ten": "Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4772",
+    "Ten": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47721",
+    "Ten": "Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47722",
+    "Ten": "Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4773",
+    "Ten": "Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47731",
+    "Ten": "Bán lẻ hoa, cây cảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47732",
+    "Ten": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47733",
+    "Ten": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47734",
+    "Ten": "Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ); trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47735",
+    "Ten": "Bán lẻ dầu hoả, ga, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47736",
+    "Ten": "Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47737",
+    "Ten": "Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47738",
+    "Ten": "Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47739",
+    "Ten": "Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G4774",
+    "Ten": "Bán lẻ hàng hóa đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47741",
+    "Ten": "Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "Ma": "G47749",
+    "Ten": "Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  { "Ma": "G478", "Ten": "Bán lẻ lưu động hoặc bán tại chợ" },
+  {
+    "Ma": "G4781",
+    "Ten": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  { "Ma": "G47811", "Ten": "Bán lẻ lương thực lưu động hoặc tại chợ" },
+  { "Ma": "G47812", "Ten": "Bán lẻ thực phẩm lưu động hoặc tại chợ" },
+  { "Ma": "G47813", "Ten": "Bán lẻ đồ uống lưu động hoặc tại chợ" },
+  {
+    "Ma": "G47814",
+    "Ten": "Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "Ma": "G4782",
+    "Ten": "Bán lẻ hàng dệt, may sẵn, giày dép lưu động hoặc tại chợ"
+  },
+  { "Ma": "G47821", "Ten": "Bán lẻ hàng dệt lưu động hoặc tại chợ" },
+  { "Ma": "G47822", "Ten": "Bán lẻ hàng may sẵn lưu động hoặc tại chợ" },
+  { "Ma": "G47823", "Ten": "Bán lẻ giày dép lưu động hoặc tại chợ" },
+  { "Ma": "G4789", "Ten": "Bán lẻ hàng hóa khác lưu động hoặc tại chợ" },
+  {
+    "Ma": "G47891",
+    "Ten": "Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ"
+  },
+  {
+    "Ma": "G47892",
+    "Ten": "Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ"
+  },
+  {
+    "Ma": "G47893",
+    "Ten": "Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ"
+  },
+  {
+    "Ma": "G47899",
+    "Ten": "Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ"
+  },
+  {
+    "Ma": "G479",
+    "Ten": "Bán lẻ hình thức khác (trừ bán lẻ tại cửa hàng, lưu động hoặc tại chợ);"
+  },
+  {
+    "Ma": "G47910",
+    "Ten": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet"
+  },
+  { "Ma": "G47990", "Ten": "Bán lẻ hình thức khác chưa được phân vào đâu" },
+  { "Ma": "H", "Ten": "Vận tải kho bãi" },
+  { "Ma": "H49", "Ten": "Vận tải đường sắt, đường bộ và vận tải đường ống" },
+  { "Ma": "H491", "Ten": "Vận tải đường sắt" },
+  { "Ma": "H49110", "Ten": "Vận tải hành khách đường sắt" },
+  { "Ma": "H49120", "Ten": "Vận tải hàng hóa đường sắt" },
+  { "Ma": "H49200", "Ten": "Vận tải bằng xe buýt" },
+  { "Ma": "H493", "Ten": "Vận tải đường bộ khác" },
+  {
+    "Ma": "H4931",
+    "Ten": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt);"
+  },
+  { "Ma": "H49311", "Ten": "Vận tải hành khách bằng tàu điện ngầm" },
+  { "Ma": "H49312", "Ten": "Vận tải hành khách bằng taxi" },
+  { "Ma": "H49313", "Ten": "Vận tải hành khách bằng xe lam, xe lôi, xe máy" },
+  {
+    "Ma": "H49319",
+    "Ten": "Vận tải hành khách bằng xe đạp, xe xích lô và xe thô sơ khác"
+  },
+  { "Ma": "H4932", "Ten": "Vận tải hành khách đường bộ khác" },
+  {
+    "Ma": "H49321",
+    "Ten": "Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh"
+  },
+  {
+    "Ma": "H49329",
+    "Ten": "Vận tải hành khách đường bộ khác chưa được phân vào đâu"
+  },
+  { "Ma": "H4933", "Ten": "Vận tải hàng hóa bằng đường bộ" },
+  { "Ma": "H49331", "Ten": "Vận tải hàng hóa bằng ô tô chuyên dụng" },
+  {
+    "Ma": "H49332",
+    "Ten": "Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng);"
+  },
+  {
+    "Ma": "H49333",
+    "Ten": "Vận tải hàng hóa bằng xe lam, xe lôi, xe công nông"
+  },
+  { "Ma": "H49334", "Ten": "Vận tải hàng hóa bằng xe thô sơ" },
+  {
+    "Ma": "H49339",
+    "Ten": "Vận tải hàng hóa bằng phương tiện đường bộ khác"
+  },
+  { "Ma": "H49400", "Ten": "Vận tải đường ống" },
+  { "Ma": "H50", "Ten": "Vận tải đường thủy" },
+  { "Ma": "H501", "Ten": "Vận tải ven biển và viễn dương" },
+  { "Ma": "H5011", "Ten": "Vận tải hành khách ven biển và viễn dương" },
+  { "Ma": "H50111", "Ten": "Vận tải hành khách ven biển" },
+  { "Ma": "H50112", "Ten": "Vận tải hành khách viễn dương" },
+  { "Ma": "H5012", "Ten": "Vận tải hàng hóa ven biển và viễn dương" },
+  { "Ma": "H50121", "Ten": "Vận tải hàng hóa ven biển" },
+  { "Ma": "H50122", "Ten": "Vận tải hàng hóa viễn dương" },
+  { "Ma": "H502", "Ten": "Vận tải đường thuỷ nội địa" },
+  { "Ma": "H5021", "Ten": "Vận tải hành khách đường thuỷ nội địa" },
+  {
+    "Ma": "H50211",
+    "Ten": "Vận tải hành khách đường thuỷ nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "Ma": "H50212",
+    "Ten": "Vận tải hành khách đường thuỷ nội địa bằng phương tiện thô sơ"
+  },
+  { "Ma": "H5022", "Ten": "Vận tải hàng hóa đường thuỷ nội địa" },
+  {
+    "Ma": "H50221",
+    "Ten": "Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "Ma": "H50222",
+    "Ten": "Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện thô sơ"
+  },
+  { "Ma": "H51", "Ten": "Vận tải hàng không" },
+  { "Ma": "H51100", "Ten": "Vận tải hành khách hàng không" },
+  { "Ma": "H51200", "Ten": "Vận tải hàng hóa hàng không" },
+  { "Ma": "H52", "Ten": "Kho bãi và các hoạt động hỗ trợ cho vận tải" },
+  { "Ma": "H5210", "Ten": "Kho bãi và lưu giữ hàng hóa" },
+  {
+    "Ma": "H52101",
+    "Ten": "Kho bãi và lưu giữ hàng hóa trong kho ngoại quan"
+  },
+  {
+    "Ma": "H52102",
+    "Ten": "Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan);"
+  },
+  { "Ma": "H52109", "Ten": "Kho bãi và lưu giữ hàng hóa trong kho khác" },
+  { "Ma": "H522", "Ten": "Hoạt động dịch vụ hỗ trợ cho vận tải" },
+  {
+    "Ma": "H5221",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt và đường bộ"
+  },
+  {
+    "Ma": "H52211",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt"
+  },
+  {
+    "Ma": "H52219",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ"
+  },
+  {
+    "Ma": "H5222",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy"
+  },
+  {
+    "Ma": "H52221",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải ven biển và viễn dương"
+  },
+  {
+    "Ma": "H52222",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thuỷ nội địa"
+  },
+  {
+    "Ma": "H5223",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải hàng không"
+  },
+  { "Ma": "H52231", "Ten": "Dịch vụ điều hành bay" },
+  {
+    "Ma": "H52239",
+    "Ten": "Hoạt động dịch vụ hỗ trợ trực tiếp khác cho vận tải hàng không"
+  },
+  { "Ma": "H5224", "Ten": "Bốc xếp hàng hóa" },
+  { "Ma": "H52241", "Ten": "Bốc xếp hàng hóa ga đường sắt" },
+  { "Ma": "H52242", "Ten": "Bốc xếp hàng hóa đường bộ" },
+  { "Ma": "H52243", "Ten": "Bốc xếp hàng hóa cảng biển" },
+  { "Ma": "H52244", "Ten": "Bốc xếp hàng hóa cảng sông" },
+  { "Ma": "H52245", "Ten": "Bốc xếp hàng hóa cảng hàng không" },
+  {
+    "Ma": "H5229",
+    "Ten": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải"
+  },
+  { "Ma": "H52291", "Ten": "Dịch vụ đại lý tàu biển" },
+  { "Ma": "H52292", "Ten": "Dịch vụ đại lý vận tải đường biển" },
+  {
+    "Ma": "H52299",
+    "Ten": "Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu"
+  },
+  { "Ma": "H53", "Ten": "Bưu chính và chuyển phát" },
+  { "Ma": "H53100", "Ten": "Bưu chính" },
+  { "Ma": "H53200", "Ten": "Chuyển phát" },
+  { "Ma": "I", "Ten": "Dịch vụ lưu trú và ăn uống" },
+  { "Ma": "I55", "Ten": "Dịch vụ lưu trú" },
+  { "Ma": "I5510", "Ten": "Dịch vụ lưu trú ngắn ngày" },
+  { "Ma": "I55101", "Ten": "Khách sạn" },
+  {
+    "Ma": "I55102",
+    "Ten": "Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "Ma": "I55103",
+    "Ten": "Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "Ma": "I55104",
+    "Ten": "Nhà trọ, phòng trọ và các cơ sở lưu trú tương tự"
+  },
+  { "Ma": "I5590", "Ten": "Cơ sở lưu trú khác" },
+  { "Ma": "I55901", "Ten": "Ký túc xá học sinh, sinh viên" },
+  {
+    "Ma": "I55902",
+    "Ten": "Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm"
+  },
+  { "Ma": "I55909", "Ten": "Cơ sở lưu trú khác chưa được phân vào đâu" },
+  { "Ma": "I56", "Ten": "Dịch vụ ăn uống" },
+  {
+    "Ma": "I5610",
+    "Ten": "Nhà hàng và các dịch vụ ăn uống phục vụ lưu động"
+  },
+  { "Ma": "I56101", "Ten": "Nhà hàng, quán ăn, hàng ăn uống" },
+  { "Ma": "I56109", "Ten": "Dịch vụ ăn uống phục vụ lưu động khác" },
+  {
+    "Ma": "I562",
+    "Ten": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên và dịch vụ ăn uống khác"
+  },
+  {
+    "Ma": "I56210",
+    "Ten": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng (phục vụ tiệc, hội họp, đám cưới...);"
+  },
+  { "Ma": "I56290", "Ten": "Dịch vụ ăn uống khác" },
+  { "Ma": "I5630", "Ten": "Dịch vụ phục vụ đồ uống" },
+  { "Ma": "I56301", "Ten": "Quán rượu, bia, quầy bar" },
+  { "Ma": "I56309", "Ten": "Dịch vụ phục vụ đồ uống khác" },
+  { "Ma": "J", "Ten": "Thông tin và truyền thông" },
+  { "Ma": "J58", "Ten": "Hoạt động xuất bản" },
+  {
+    "Ma": "J581",
+    "Ten": "Xuất bản sách, ấn phẩm định kỳ và các hoạt động xuất bản khác"
+  },
+  { "Ma": "J58110", "Ten": "Xuất bản sách" },
+  { "Ma": "J58120", "Ten": "Xuất bản các danh mục chỉ dẫn và địa chỉ" },
+  { "Ma": "J58130", "Ten": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ" },
+  { "Ma": "J58190", "Ten": "Hoạt động xuất bản khác" },
+  { "Ma": "J58200", "Ten": "Xuất bản phần mềm" },
+  {
+    "Ma": "J59",
+    "Ten": "Hoạt động điện ảnh, sản xuất chương trình truyền hình, ghi âm và xuất bản âm nhạc"
+  },
+  {
+    "Ma": "J591",
+    "Ten": "Hoạt động điện ảnh và sản xuất chương trình truyền hình"
+  },
+  {
+    "Ma": "J5911",
+    "Ten": "Hoạt động sản xuất phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  { "Ma": "J59111", "Ten": "Hoạt động sản xuất phim điện ảnh" },
+  { "Ma": "J59112", "Ten": "Hoạt động sản xuất phim video" },
+  { "Ma": "J59113", "Ten": "Hoạt động sản xuất chương trình truyền hình" },
+  { "Ma": "J59120", "Ten": "Hoạt động hậu kỳ" },
+  {
+    "Ma": "J59130",
+    "Ten": "Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  { "Ma": "J5914", "Ten": "Hoạt động chiếu phim" },
+  { "Ma": "J59141", "Ten": "Hoạt động chiếu phim cố định" },
+  { "Ma": "J59142", "Ten": "Hoạt động chiếu phim lưu động" },
+  { "Ma": "J59200", "Ten": "Hoạt động ghi âm và xuất bản âm nhạc" },
+  { "Ma": "J60", "Ten": "Hoạt động phát thanh, truyền hình" },
+  { "Ma": "J60100", "Ten": "Hoạt động phát thanh" },
+  {
+    "Ma": "J602",
+    "Ten": "Hoạt động truyền hình và cung cấp chương trình thuê bao"
+  },
+  { "Ma": "J60210", "Ten": "Hoạt động truyền hình" },
+  {
+    "Ma": "J60220",
+    "Ten": "Chương trình cáp, vệ tinh và các chương trình thuê bao khác"
+  },
+  { "Ma": "J61", "Ten": "Viễn thông" },
+  { "Ma": "J61100", "Ten": "Hoạt động viễn thông có dây" },
+  { "Ma": "J61200", "Ten": "Hoạt động viễn thông không dây" },
+  { "Ma": "J61300", "Ten": "Hoạt động viễn thông vệ tinh" },
+  { "Ma": "J6190", "Ten": "Hoạt động viễn thông khác" },
+  { "Ma": "J61901", "Ten": "Hoạt động của các điểm truy cập internet" },
+  {
+    "Ma": "J61909",
+    "Ten": "Hoạt động viễn thông khác chưa được phân vào đâu"
+  },
+  { "Ma": "J62010", "Ten": "Lập trình máy vi tính" },
+  {
+    "Ma": "J62020",
+    "Ten": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính"
+  },
+  {
+    "Ma": "J62090",
+    "Ten": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính"
+  },
+  {
+    "Ma": "J62620",
+    "Ten": "Lập trình máy vi tính, dịch vụ tư vấn và các hoạt động khác liên quan đến máy vi tính"
+  },
+  { "Ma": "J63", "Ten": "Hoạt động dịch vụ thông tin" },
+  {
+    "Ma": "J631",
+    "Ten": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan; cổng thông tin"
+  },
+  {
+    "Ma": "J63110",
+    "Ten": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan"
+  },
+  { "Ma": "J63120", "Ten": "Cổng thông tin" },
+  { "Ma": "J632", "Ten": "Dịch vụ thông tin khác" },
+  { "Ma": "J63210", "Ten": "Hoạt động thông tấn" },
+  { "Ma": "J63290", "Ten": "Dịch vụ thông tin khác chưa được phân vào đâu" },
+  { "Ma": "K", "Ten": "Hoạt động tài chính, ngân hàng và bảo hiểm" },
+  {
+    "Ma": "K64",
+    "Ten": "Hoạt động dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội);"
+  },
+  { "Ma": "K641", "Ten": "Hoạt động trung gian tiền tệ" },
+  { "Ma": "K64110", "Ten": "Hoạt động ngân hàng trung ương" },
+  { "Ma": "K64190", "Ten": "Hoạt động trung gian tiền tệ khác" },
+  { "Ma": "K64200", "Ten": "Hoạt động công ty nắm giữ tài sản" },
+  {
+    "Ma": "K64300",
+    "Ten": "Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác"
+  },
+  {
+    "Ma": "K649",
+    "Ten": "Hoạt động dịch vụ tài chính khác (trừ bảo hiểm và bảo hiểm xã hội);"
+  },
+  { "Ma": "K64910", "Ten": "Hoạt động cho thuê tài chính" },
+  { "Ma": "K64920", "Ten": "Hoạt động cấp tín dụng khác" },
+  {
+    "Ma": "K64990",
+    "Ten": "Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội);"
+  },
+  {
+    "Ma": "K65",
+    "Ten": "Bảo hiểm, tái bảo hiểm và bảo hiểm xã hội (trừ bảo đảm xã hội bắt buộc);"
+  },
+  { "Ma": "K651", "Ten": "Bảo hiểm" },
+  { "Ma": "K65110", "Ten": "Bảo hiểm nhân thọ" },
+  { "Ma": "K6512", "Ten": "Bảo hiểm phi nhân thọ" },
+  { "Ma": "K65121", "Ten": "Bảo hiểm y tế" },
+  { "Ma": "K65129", "Ten": "Bảo hiểm phi nhân thọ khác" },
+  { "Ma": "K65200", "Ten": "Tái bảo hiểm" },
+  { "Ma": "K65300", "Ten": "Bảo hiểm xã hội" },
+  { "Ma": "K66", "Ten": "Hoạt động tài chính khác" },
+  {
+    "Ma": "K661",
+    "Ten": "Hoạt động hỗ trợ dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội);"
+  },
+  { "Ma": "K66110", "Ten": "Quản lý thị trường tài chính" },
+  { "Ma": "K66120", "Ten": "Môi giới hợp đồng hàng hoá và chứng khoán" },
+  {
+    "Ma": "K66190",
+    "Ten": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu"
+  },
+  { "Ma": "K662", "Ten": "Hoạt động hỗ trợ bảo hiểm và bảo hiểm xã hội" },
+  { "Ma": "K66210", "Ten": "Đánh giá rủi ro và thiệt hại" },
+  { "Ma": "K66220", "Ten": "Hoạt động của đại lý và môi giới bảo hiểm" },
+  {
+    "Ma": "K66290",
+    "Ten": "Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội"
+  },
+  { "Ma": "K66300", "Ten": "Hoạt động quản lý quỹ" },
+  { "Ma": "L", "Ten": "Hoạt động kinh doanh bất động sản" },
+  { "Ma": "L68", "Ten": "Hoạt động kinh doanh bất động sản" },
+  {
+    "Ma": "L68100",
+    "Ten": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê"
+  },
+  {
+    "Ma": "L68200",
+    "Ten": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất"
+  },
+  { "Ma": "M", "Ten": "Hoạt động chuyên môn, khoa học và công nghệ" },
+  { "Ma": "M69", "Ten": "Hoạt động pháp luật, kế toán và kiểm toán" },
+  { "Ma": "M6910", "Ten": "Hoạt động pháp luật" },
+  { "Ma": "M69101", "Ten": "Hoạt động đại diện, tư vấn pháp luật" },
+  { "Ma": "M69102", "Ten": "Hoạt động công chứng và chứng thực" },
+  { "Ma": "M69109", "Ten": "Hoạt động pháp luật khác" },
+  {
+    "Ma": "M69200",
+    "Ten": "Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế"
+  },
+  {
+    "Ma": "M70",
+    "Ten": "Hoạt động của trụ sở văn phòng; hoạt động tư vấn quản lý"
+  },
+  { "Ma": "M70100", "Ten": "Hoạt động của trụ sở văn phòng" },
+  { "Ma": "M70200", "Ten": "Hoạt động tư vấn quản lý" },
+  {
+    "Ma": "M71",
+    "Ten": "Hoạt động kiến trúc; kiểm tra và phân tích kỹ thuật"
+  },
+  {
+    "Ma": "M7110",
+    "Ten": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan"
+  },
+  { "Ma": "M71101", "Ten": "Hoạt động kiến trúc" },
+  { "Ma": "M71102", "Ten": "Hoạt động đo đạc bản đồ" },
+  { "Ma": "M71103", "Ten": "Hoạt động thăm dò địa chất, nguồn nước" },
+  { "Ma": "M71109", "Ten": "Hoạt động tư vấn kỹ thuật có liên quan khác" },
+  { "Ma": "M71200", "Ten": "Kiểm tra và phân tích kỹ thuật" },
+  { "Ma": "M72", "Ten": "Nghiên cứu khoa học và phát triển" },
+  {
+    "Ma": "M72100",
+    "Ten": "Nghiên cứu và phát triển thực nghiệm khoa học tự nhiên và kỹ thuật"
+  },
+  {
+    "Ma": "M72200",
+    "Ten": "Nghiên cứu và phát triển thực nghiệm khoa học xã hội và nhân văn"
+  },
+  { "Ma": "M73", "Ten": "Quảng cáo và nghiên cứu thị trường" },
+  { "Ma": "M73100", "Ten": "Quảng cáo" },
+  { "Ma": "M73200", "Ten": "Nghiên cứu thị trường và thăm dò dư luận" },
+  { "Ma": "M74", "Ten": "Hoạt động chuyên môn, khoa học và công nghệ khác" },
+  { "Ma": "M74100", "Ten": "Hoạt động thiết kế chuyên dụng" },
+  { "Ma": "M74200", "Ten": "Hoạt động nhiếp ảnh" },
+  {
+    "Ma": "M7490",
+    "Ten": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu"
+  },
+  { "Ma": "M74901", "Ten": "Hoạt động khí tượng thuỷ văn" },
+  {
+    "Ma": "M74909",
+    "Ten": "Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu"
+  },
+  { "Ma": "M75000", "Ten": "Hoạt động thú y" },
+  { "Ma": "N", "Ten": "Hoạt động hành chính và dịch vụ hỗ trợ" },
+  {
+    "Ma": "N77",
+    "Ten": "Cho thuê máy móc, thiết bị (không kèm người điều khiển);; cho thuê đồ dùng cá nhân và gia đình; cho thuê tài sản vô hình phi tài chính"
+  },
+  { "Ma": "N7710", "Ten": "Cho thuê xe có động cơ" },
+  { "Ma": "N77101", "Ten": "Cho thuê ôtô" },
+  { "Ma": "N77109", "Ten": "Cho thuê xe có động cơ khác" },
+  { "Ma": "N772", "Ten": "Cho thuê đồ dùng cá nhân và gia đình" },
+  { "Ma": "N77210", "Ten": "Cho thuê thiết bị thể thao, vui chơi giải trí" },
+  { "Ma": "N77220", "Ten": "Cho thuê băng, đĩa video" },
+  { "Ma": "N77290", "Ten": "Cho thuê đồ dùng cá nhân và gia đình khác" },
+  {
+    "Ma": "N7730",
+    "Ten": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác"
+  },
+  { "Ma": "N77301", "Ten": "Cho thuê máy móc, thiết bị nông, lâm nghiệp" },
+  { "Ma": "N77302", "Ten": "Cho thuê máy móc, thiết bị xây dựng" },
+  {
+    "Ma": "N77303",
+    "Ten": "Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính);"
+  },
+  {
+    "Ma": "N77309",
+    "Ten": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác chưa được phân vào đâu"
+  },
+  { "Ma": "N77400", "Ten": "Cho thuê tài sản vô hình phi tài chính" },
+  { "Ma": "N78", "Ten": "Hoạt động dịch vụ lao động và việc làm" },
+  {
+    "Ma": "N78100",
+    "Ten": "Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm"
+  },
+  { "Ma": "N78200", "Ten": "Cung ứng lao động tạm thời" },
+  { "Ma": "N7830", "Ten": "Cung ứng và quản lý nguồn lao động" },
+  { "Ma": "N78301", "Ten": "Cung ứng và quản lý nguồn lao động trong nước" },
+  {
+    "Ma": "N78302",
+    "Ten": "Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài"
+  },
+  {
+    "Ma": "N79",
+    "Ten": "Hoạt động của các đại lý du lịch, kinh doanh tua du lịch và các dịch vụ hỗ trợ, liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "Ma": "N791",
+    "Ten": "Hoạt động của các đại lý du lịch, kinh doanh tua du lịch"
+  },
+  { "Ma": "N79110", "Ten": "Đại lý du lịch" },
+  { "Ma": "N79120", "Ten": "Điều hành tua du lịch" },
+  {
+    "Ma": "N79200",
+    "Ten": "Dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  { "Ma": "N80", "Ten": "Hoạt động điều tra bảo đảm an toàn" },
+  { "Ma": "N80100", "Ten": "Hoạt động bảo vệ cá nhân" },
+  { "Ma": "N80200", "Ten": "Dịch vụ hệ thống bảo đảm an toàn" },
+  { "Ma": "N80300", "Ten": "Dịch vụ điều tra" },
+  {
+    "Ma": "N81",
+    "Ten": "Hoạt động dịch vụ vệ sinh nhà cửa, công trình và cảnh quan"
+  },
+  { "Ma": "N81100", "Ten": "Dịch vụ hỗ trợ tổng hợp" },
+  { "Ma": "N812", "Ten": "Dịch vụ vệ sinh" },
+  { "Ma": "N81210", "Ten": "Vệ sinh chung nhà cửa" },
+  { "Ma": "N81290", "Ten": "Vệ sinh nhà cửa và các công trình khác" },
+  { "Ma": "N81300", "Ten": "Dịch vụ chăm sóc và duy trì cảnh quan" },
+  {
+    "Ma": "N82",
+    "Ten": "Hoạt động hành chính, hỗ trợ văn phòng và các hoạt động hỗ trợ kinh doanh khác"
+  },
+  { "Ma": "N821", "Ten": "Hoạt động hành chính và hỗ trợ văn phòng" },
+  { "Ma": "N82110", "Ten": "Dịch vụ hành chính văn phòng tổng hợp" },
+  {
+    "Ma": "N8219",
+    "Ten": "Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  { "Ma": "N82191", "Ten": "Photo, chuẩn bị tài liệu" },
+  { "Ma": "N82199", "Ten": "Hoạt động hỗ trợ văn phòng đặc biệt khác" },
+  { "Ma": "N82200", "Ten": "Hoạt động dịch vụ liên quan đến các cuộc gọi" },
+  { "Ma": "N82300", "Ten": "Tổ chức giới thiệu và xúc tiến thương mại" },
+  {
+    "Ma": "N829",
+    "Ten": "Hoạt động dịch vụ hỗ trợ kinh doanh khác chưa được phân vào đâu"
+  },
+  { "Ma": "N82910", "Ten": "Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng" },
+  { "Ma": "N82920", "Ten": "Dịch vụ đóng gói" },
+  {
+    "Ma": "N82990",
+    "Ten": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "Ma": "O",
+    "Ten": "Hoạt động của đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng; bảo đảm xã hội bắt buộc"
+  },
+  {
+    "Ma": "O84",
+    "Ten": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng và bảo đảm xã hội bắt buộc"
+  },
+  {
+    "Ma": "O841",
+    "Ten": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước và quản lý chính sách kinh tế, xã hội"
+  },
+  {
+    "Ma": "O8411",
+    "Ten": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "Ma": "O84111",
+    "Ten": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội"
+  },
+  {
+    "Ma": "O84112",
+    "Ten": "Hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "Ma": "O84120",
+    "Ten": "Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hoá và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc);"
+  },
+  {
+    "Ma": "O84130",
+    "Ten": "Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành"
+  },
+  { "Ma": "O842", "Ten": "Hoạt động phục vụ chung cho toàn đất nước" },
+  { "Ma": "O84210", "Ten": "Hoạt động ngoại giao" },
+  { "Ma": "O84220", "Ten": "Hoạt động quốc phòng" },
+  { "Ma": "O84230", "Ten": "Hoạt động an ninh, trật tự an toàn xã hội" },
+  { "Ma": "O84300", "Ten": "Hoạt động bảo đảm xã hội bắt buộc" },
+  { "Ma": "P", "Ten": "Giáo dục và đào tạo" },
+  { "Ma": "P85", "Ten": "Giáo dục và đào tạo" },
+  { "Ma": "P85100", "Ten": "Giáo dục mầm non" },
+  { "Ma": "P85200", "Ten": "Giáo dục tiểu học" },
+  { "Ma": "P853", "Ten": "Giáo dục trung học" },
+  { "Ma": "P8531", "Ten": "Giáo dục trung học cơ sở và trung học phổ thông" },
+  { "Ma": "P85311", "Ten": "Giáo dục trung học cơ sở" },
+  { "Ma": "P85312", "Ten": "Giáo dục trung học phổ thông" },
+  { "Ma": "P8532", "Ten": "Giáo dục nghề nghiệp" },
+  { "Ma": "P85321", "Ten": "Giáo dục trung cấp chuyên nghiệp" },
+  { "Ma": "P85322", "Ten": "Dạy nghề" },
+  { "Ma": "P854", "Ten": "Đào tạo cao đẳng, đại học và sau đại học" },
+  { "Ma": "P85410", "Ten": "Đào tạo cao đẳng" },
+  { "Ma": "P85420", "Ten": "Đào tạo đại học và sau đại học" },
+  { "Ma": "P855", "Ten": "Giáo dục khác" },
+  { "Ma": "P85510", "Ten": "Giáo dục thể thao và giải trí" },
+  { "Ma": "P85520", "Ten": "Giáo dục văn hoá nghệ thuật" },
+  { "Ma": "P85590", "Ten": "Giáo dục khác chưa được phân vào đâu" },
+  { "Ma": "P85600", "Ten": "Dịch vụ hỗ trợ giáo dục" },
+  { "Ma": "Q", "Ten": "Y tế và hoạt động trợ giúp xã hội" },
+  { "Ma": "Q86", "Ten": "Hoạt động y tế" },
+  { "Ma": "Q8610", "Ten": "Hoạt động của các bệnh viện, trạm xá" },
+  { "Ma": "Q86101", "Ten": "Hoạt động của các bệnh viện" },
+  {
+    "Ma": "Q86102",
+    "Ten": "Hoạt động của các trạm y tế cấp xã và trạm y tế bộ/ngành"
+  },
+  {
+    "Ma": "Q8620",
+    "Ten": "Hoạt động của các phòng khám đa khoa, chuyên khoa và nha khoa"
+  },
+  {
+    "Ma": "Q86201",
+    "Ten": "Hoạt động của các phòng khám đa khoa, chuyên khoa"
+  },
+  { "Ma": "Q86202", "Ten": "Hoạt động của các phòng khám nha khoa" },
+  { "Ma": "Q869", "Ten": "Hoạt động y tế khác" },
+  { "Ma": "Q86910", "Ten": "Hoạt động y tế dự phòng" },
+  {
+    "Ma": "Q86920",
+    "Ten": "Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng"
+  },
+  { "Ma": "Q86990", "Ten": "Hoạt động y tế khác chưa được phân vào đâu" },
+  { "Ma": "Q87", "Ten": "Hoạt động chăm sóc, điều dưỡng tập trung" },
+  { "Ma": "Q8710", "Ten": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng" },
+  {
+    "Ma": "Q87101",
+    "Ten": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh"
+  },
+  {
+    "Ma": "Q87109",
+    "Ten": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác"
+  },
+  {
+    "Ma": "Q8720",
+    "Ten": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần và người nghiện"
+  },
+  {
+    "Ma": "Q87201",
+    "Ten": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần"
+  },
+  {
+    "Ma": "Q87202",
+    "Ten": "Hoạt động chăm sóc sức khoẻ, cai nghiện phục hồi người nghiện"
+  },
+  {
+    "Ma": "Q8730",
+    "Ten": "Hoạt động chăm sóc sức khoẻ người có công, người già và người tàn tật không có khả năng tự chăm sóc"
+  },
+  {
+    "Ma": "Q87301",
+    "Ten": "Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh);"
+  },
+  { "Ma": "Q87302", "Ten": "Hoạt động chăm sóc sức khoẻ người già" },
+  { "Ma": "Q87303", "Ten": "Hoạt động chăm sóc sức khoẻ người tàn tật" },
+  { "Ma": "Q8790", "Ten": "Hoạt động chăm sóc tập trung khác" },
+  {
+    "Ma": "Q87901",
+    "Ten": "Hoạt động chữa bệnh, phục hồi nhân phẩm cho đối tượng mại dâm"
+  },
+  {
+    "Ma": "Q87909",
+    "Ten": "Hoạt động chăm sóc tập trung khác chưa được phân vào đâu"
+  },
+  { "Ma": "Q88", "Ten": "Hoạt động trợ giúp xã hội không tập trung" },
+  {
+    "Ma": "Q8810",
+    "Ten": "Hoạt động trợ giúp xã hội không tập trung đối với người có công, thương bệnh binh, người già và người tàn tật"
+  },
+  {
+    "Ma": "Q88101",
+    "Ten": "Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh);"
+  },
+  {
+    "Ma": "Q88102",
+    "Ten": "Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh"
+  },
+  {
+    "Ma": "Q88103",
+    "Ten": "Hoạt động trợ giúp xã hội không tập trung đối với người già và người tàn tật"
+  },
+  { "Ma": "Q88900", "Ten": "Hoạt động trợ giúp xã hội không tập trung khác" },
+  { "Ma": "R", "Ten": "NGHệ THUậT, VUI CH¥I Và GIảI TRí" },
+  { "Ma": "R90000", "Ten": "Hoạt động sáng tác, nghệ thuật và giải trí" },
+  {
+    "Ma": "R91",
+    "Ten": "Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác"
+  },
+  {
+    "Ma": "R910",
+    "Ten": "Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác"
+  },
+  { "Ma": "R91010", "Ten": "Hoạt động thư viện và lưu trữ" },
+  { "Ma": "R91020", "Ten": "Hoạt động bảo tồn, bảo tàng" },
+  {
+    "Ma": "R91030",
+    "Ten": "Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên"
+  },
+  { "Ma": "R9200", "Ten": "Hoạt động xổ số, cá cược và đánh bạc" },
+  { "Ma": "R92001", "Ten": "Hoạt động xổ số" },
+  { "Ma": "R92002", "Ten": "Hoạt động cá cược và đánh bạc" },
+  { "Ma": "R93", "Ten": "Hoạt động thể thao, vui chơi và giải trí" },
+  { "Ma": "R931", "Ten": "Hoạt động thể thao" },
+  { "Ma": "R93110", "Ten": "Hoạt động của các cơ sở thể thao" },
+  { "Ma": "R93120", "Ten": "Hoạt động của các câu lạc bộ thể thao" },
+  { "Ma": "R93190", "Ten": "Hoạt động thể thao khác" },
+  { "Ma": "R932", "Ten": "Hoạt động vui chơi giải trí khác" },
+  {
+    "Ma": "R93210",
+    "Ten": "Hoạt động của các công viên vui chơi và công viên theo chủ đề"
+  },
+  {
+    "Ma": "R93290",
+    "Ten": "Hoạt động vui chơi giải trí khác chưa được phân vào đâu"
+  },
+  { "Ma": "S", "Ten": "HOạT ĐộNG DịCH Vụ KHáC" },
+  { "Ma": "S94", "Ten": "Hoạt động của các hiệp hội, tổ chức khác" },
+  {
+    "Ma": "S941",
+    "Ten": "Hoạt động của các hiệp hội kinh doanh, nghiệp chủ và nghề nghiệp"
+  },
+  {
+    "Ma": "S94110",
+    "Ten": "Hoạt động của các hiệp hội kinh doanh và nghiệp chủ"
+  },
+  { "Ma": "S94120", "Ten": "Hoạt động của các hội nghề nghiệp" },
+  { "Ma": "S94200", "Ten": "Hoạt động của công đoàn" },
+  { "Ma": "S949", "Ten": "Hoạt động của các tổ chức khác" },
+  { "Ma": "S94910", "Ten": "Hoạt động của các tổ chức tôn giáo" },
+  {
+    "Ma": "S94990",
+    "Ten": "Hoạt động của các tổ chức khác chưa được phân vào đâu"
+  },
+  { "Ma": "S95", "Ten": "Sửa chữa máy vi tính, đồ dùng cá nhân và gia đình" },
+  { "Ma": "S951", "Ten": "Sửa chữa máy vi tính và thiết bị liên lạc" },
+  { "Ma": "S95110", "Ten": "Sửa chữa máy vi tính và thiết bị ngoại vi" },
+  { "Ma": "S95120", "Ten": "Sửa chữa thiết bị liên lạc" },
+  { "Ma": "S952", "Ten": "Sửa chữa đồ dùng cá nhân và gia đình" },
+  { "Ma": "S95210", "Ten": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng" },
+  { "Ma": "S95220", "Ten": "Sửa chữa thiết bị, đồ dùng gia đình" },
+  { "Ma": "S95230", "Ten": "Sửa chữa giày, dép, hàng da và giả da" },
+  {
+    "Ma": "S95240",
+    "Ten": "Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tự"
+  },
+  { "Ma": "S95290", "Ten": "Sửa chữa đồ dùng cá nhân và gia đình khác" },
+  { "Ma": "S96", "Ten": "Hoạt động dịch vụ phục vụ cá nhân khác" },
+  {
+    "Ma": "S96100",
+    "Ten": "Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao);"
+  },
+  { "Ma": "S96200", "Ten": "Giặt là, làm sạch các sản phẩm dệt và lông thú" },
+  {
+    "Ma": "S963",
+    "Ten": "Hoạt động dịch vụ phục vụ cá nhân khác chưa được phân vào đâu"
+  },
+  { "Ma": "S96310", "Ten": "Cắt tóc, làm đầu, gội đầu" },
+  { "Ma": "S96320", "Ten": "Hoạt động dịch vụ phục vụ tang lễ" },
+  { "Ma": "S96330", "Ten": "Hoạt động dịch vụ phục vụ hôn lễ" },
+  {
+    "Ma": "S96390",
+    "Ten": "Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "Ma": "T",
+    "Ten": "Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "Ma": "T97000",
+    "Ten": "Hoạt động làm thuê công việc gia đình trong các hộ gia đình"
+  },
+  {
+    "Ma": "T98",
+    "Ten": "Hoạt động sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "Ma": "T98100",
+    "Ten": "Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "Ma": "T98200",
+    "Ten": "Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  { "Ma": "U", "Ten": "Hoạt động của các tổ chức và cơ quan quốc tế" },
+  { "Ma": "U99000", "Ten": "Hoạt động của các tổ chức và cơ quan quốc tế" }
+]

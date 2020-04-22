@@ -5,6 +5,8 @@ function parseDate(str) {
     if (str) {
         if (str.length === 4) {
             day = moment(`01/01/${str}`, "D/M/YYYY");
+        } else if (str.length === 6 || str.length === 7) {
+            day = moment(`01/${str}`, "D/M/YYYY");
         } else if (str.length === 8 || str.length === 9 || str.length === 10) {
             day = moment(str, "D/M/YYYY");
             if (day.toString() === 'Invalid date') {

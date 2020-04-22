@@ -1,0 +1,1576 @@
+[
+  {
+    "STT": 1,
+    "HoTen": "Võ Thành Long",
+    "NamSinh": 1950,
+    "DiaChi": "KP Tân Thuận, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Bệnh Binh 41-50%",
+    "CMND": 210218668
+  },
+  {
+    "STT": 2,
+    "HoTen": "Đinh Văn Tỵ",
+    "NamSinh": 1947,
+    "DiaChi": "KP Đăk Đưm, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%"
+  },
+  {
+    "STT": 3,
+    "HoTen": "Phan Hùng",
+    "NamSinh": 1959,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 211755932
+  },
+  {
+    "STT": 4,
+    "HoTen": "Đinh Văn Bích",
+    "NamSinh": 1932,
+    "DiaChi": "KP Đăk Đưm, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%"
+  },
+  {
+    "STT": 5,
+    "HoTen": "Huỳnh Văn Bồng",
+    "NamSinh": 1956,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "CĐHH 41-60%",
+    "CMND": 210063988
+  },
+  {
+    "STT": 6,
+    "HoTen": "Trần Thị Hà",
+    "NamSinh": 1942,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "CĐHH 41-60%",
+    "CMND": 210268921
+  },
+  {
+    "STT": 7,
+    "HoTen": "Đoàn Thị Hoàng",
+    "NamSinh": 1955,
+    "DiaChi": "KP Thịnh Văn 1, thị trấn Vân Canh",
+    "LoaiDoiTuong": "CĐHH 41-60%",
+    "CMND": 210028548
+  },
+  {
+    "STT": 8,
+    "HoTen": "Tạ Thị Thu Lan",
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Con bị DDDT , SGKNLĐ từ 81% trở lên"
+  },
+  {
+    "STT": 9,
+    "HoTen": "Đinh Ka Nu",
+    "DiaChi": "KP Hiệp Hà, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Con bị DDDT , SGKNLĐ từ 81% trở lên"
+  },
+  {
+    "STT": 10,
+    "HoTen": "Đinh Thị Ngọt",
+    "NamSinh": 1932,
+    "DiaChi": "KP Hiệp Hội, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 11,
+    "HoTen": "Lê Văn Tự",
+    "NamSinh": 1932,
+    "DiaChi": "KP Hiệp Hội, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210247674
+  },
+  {
+    "STT": 12,
+    "HoTen": "Lê Thị Thể",
+    "NamSinh": 1927,
+    "DiaChi": "KP Hiệp Hà, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 13,
+    "HoTen": "Lê Thị Guốc",
+    "NamSinh": 1932,
+    "DiaChi": "KP Hiệp Hội, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210247317
+  },
+  {
+    "STT": 14,
+    "HoTen": "Đoàn Văn Vai",
+    "NamSinh": 1946,
+    "DiaChi": "KP Hiệp Hà, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 15,
+    "HoTen": "Lê Văn Túc",
+    "NamSinh": 1932,
+    "DiaChi": "KP Hiệp Hà, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 16,
+    "HoTen": "Lê Thị Bông",
+    "NamSinh": 1931,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210095265
+  },
+  {
+    "STT": 17,
+    "HoTen": "Phạm Thị Ngọt",
+    "NamSinh": 1944,
+    "DiaChi": "KP Canh Tân, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210064915
+  },
+  {
+    "STT": 18,
+    "HoTen": "Nguyễn Văn Lại",
+    "NamSinh": 1947,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210030353
+  },
+  {
+    "STT": 19,
+    "HoTen": "Đinh Văn Tư",
+    "NamSinh": 1936,
+    "DiaChi": "KP Thịnh Văn 1, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210277354
+  },
+  {
+    "STT": 20,
+    "HoTen": "Trần Thị Hồng Vân",
+    "NamSinh": 1956,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210922699
+  },
+  {
+    "STT": 21,
+    "HoTen": "Lê Thị Hoa",
+    "NamSinh": 1934,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210037545
+  },
+  {
+    "STT": 22,
+    "HoTen": "Nguyễn Thị Hiền",
+    "NamSinh": 1955,
+    "DiaChi": "KP Hiệp Hội, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%"
+  },
+  {
+    "STT": 23,
+    "HoTen": "Ngô Thị Thu",
+    "NamSinh": 1952,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210042539
+  },
+  {
+    "STT": 24,
+    "HoTen": "Nguyễn Thị Hương",
+    "NamSinh": 1952,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210505290
+  },
+  {
+    "STT": 25,
+    "HoTen": "Nguyễn Ngọc Quý",
+    "NamSinh": 1949,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211010528
+  },
+  {
+    "STT": 26,
+    "HoTen": "Đỗ Thị Bích Phượng",
+    "NamSinh": 1951,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210277847
+  },
+  {
+    "STT": 27,
+    "HoTen": "Lê Thị Thanh Tâm",
+    "NamSinh": 1955,
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210000358
+  },
+  {
+    "STT": 28,
+    "HoTen": "Trần Thị Mai",
+    "NamSinh": 1956,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211010561
+  },
+  {
+    "STT": 29,
+    "HoTen": "Phạm Đình Trọng",
+    "NamSinh": 1931,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210247572
+  },
+  {
+    "STT": 30,
+    "HoTen": "Nguyễn Thị Thu Hà",
+    "NamSinh": 1955,
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210840354
+  },
+  {
+    "STT": 31,
+    "HoTen": "Ngô Đức Thành",
+    "NamSinh": 1941,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210040946
+  },
+  {
+    "STT": 32,
+    "HoTen": "Huỳnh Thị (Hồng) Phước",
+    "NamSinh": 1953,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210228333
+  },
+  {
+    "STT": 33,
+    "HoTen": "Võ Ngọc Hoa",
+    "NamSinh": 1945,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210283313
+  },
+  {
+    "STT": 34,
+    "HoTen": "Nguyễn Thái Bình",
+    "NamSinh": 1947,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210011272
+  },
+  {
+    "STT": 35,
+    "HoTen": "Nguyễn Thị Hậu",
+    "NamSinh": 1956,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210228334
+  },
+  {
+    "STT": 36,
+    "HoTen": "Nguyễn Thị Sen",
+    "NamSinh": 1950,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210042556
+  },
+  {
+    "STT": 37,
+    "HoTen": "Phan Thị Định",
+    "NamSinh": 1938,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210952183
+  },
+  {
+    "STT": 38,
+    "HoTen": "Đỗ Thị  Nhiên",
+    "NamSinh": 1946,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210068699
+  },
+  {
+    "STT": 39,
+    "HoTen": "Đinh Thị Kích",
+    "NamSinh": 1954,
+    "DiaChi": "KP Tân Thuận, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211010745
+  },
+  {
+    "STT": 40,
+    "HoTen": "Phạm Thị Sửu",
+    "NamSinh": 1950,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210030595
+  },
+  {
+    "STT": 41,
+    "HoTen": "Trần Thị Tam",
+    "NamSinh": 1945,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211311081
+  },
+  {
+    "STT": 42,
+    "HoTen": "Huỳnh Thị Sơ Rum",
+    "NamSinh": 1952,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 215461656
+  },
+  {
+    "STT": 43,
+    "HoTen": "Nguyễn Thị Hưng",
+    "NamSinh": 1952,
+    "DiaChi": "KP Hiệp Hội, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210017726
+  },
+  {
+    "STT": 44,
+    "HoTen": "Dương Thị Khâm",
+    "NamSinh": 1938,
+    "DiaChi": "KP Thịnh Văn 1,thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211010773
+  },
+  {
+    "STT": 45,
+    "HoTen": "Võ Thị Chín",
+    "NamSinh": 1954,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211045292
+  },
+  {
+    "STT": 46,
+    "HoTen": "Tạ Lương Thiện",
+    "NamSinh": 1955,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 211755838
+  },
+  {
+    "STT": 47,
+    "HoTen": "La Thanh Bình",
+    "NamSinh": 1950,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210003064
+  },
+  {
+    "STT": 48,
+    "HoTen": "Nguyễn Thị Thanh Xuân",
+    "NamSinh": 1956,
+    "DiaChi": "KP Hiệp Giao, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210037469
+  },
+  {
+    "STT": 49,
+    "HoTen": "Nguyễn Hữu Thái",
+    "NamSinh": 1959,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 215083141
+  },
+  {
+    "STT": 50,
+    "HoTen": "Nguyễn Thị Mai",
+    "NamSinh": 1950,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%",
+    "CMND": 210037658
+  },
+  {
+    "STT": 51,
+    "HoTen": "Đinh Nghiệp",
+    "NamSinh": 1930,
+    "DiaChi": "KP Đăk Đưm, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Thương binh 21-60%"
+  },
+  {
+    "STT": 52,
+    "HoTen": "Nguyên Tấn Minh",
+    "DiaChi": "KP Thịnh Văn 1, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tù đày"
+  },
+  {
+    "STT": 53,
+    "HoTen": "Lê Văn An",
+    "NamSinh": 1942,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210247608
+  },
+  {
+    "STT": 54,
+    "HoTen": "Trần Cộng",
+    "NamSinh": 1947,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210268937
+  },
+  {
+    "STT": 55,
+    "HoTen": "Lưu Háo",
+    "NamSinh": 1937,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210268923
+  },
+  {
+    "STT": 56,
+    "HoTen": "Nguyễn Ngọc Tứ",
+    "NamSinh": 1955,
+    "DiaChi": "Khu phố 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 211010630
+  },
+  {
+    "STT": 57,
+    "HoTen": "Huỳnh Chút",
+    "NamSinh": 1956,
+    "DiaChi": "Khu phố 3, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210037176
+  },
+  {
+    "STT": 58,
+    "HoTen": "Trần Thị Bằng",
+    "NamSinh": 1941,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210467365
+  },
+  {
+    "STT": 59,
+    "HoTen": "Đinh Thị Bảy",
+    "NamSinh": 1948,
+    "DiaChi": "KP TVăn 1, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210042549
+  },
+  {
+    "STT": 60,
+    "HoTen": "Đặng Thị Liên",
+    "NamSinh": 1944,
+    "DiaChi": "thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210247655
+  },
+  {
+    "STT": 61,
+    "HoTen": "Đinh Thị Minh",
+    "NamSinh": 1950,
+    "DiaChi": "KP TVăn 2, thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210269047
+  },
+  {
+    "STT": 62,
+    "HoTen": "Bùi Ngọc Anh",
+    "NamSinh": 1933,
+    "DiaChi": "thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210247654
+  },
+  {
+    "STT": 63,
+    "HoTen": "Nguyễn Thị Trung",
+    "NamSinh": 1938,
+    "DiaChi": "Khu phố 3,thị trấn Vân Canh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210247630
+  },
+  {
+    "STT": 64,
+    "HoTen": "Đinh Văn Ếch",
+    "NamSinh": 1945,
+    "DiaChi": "Ka Xim, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210277163
+  },
+  {
+    "STT": 65,
+    "HoTen": "Đoàn Văn Đây",
+    "NamSinh": 1945,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 215165828
+  },
+  {
+    "STT": 66,
+    "HoTen": "Đinh Văn Găm",
+    "NamSinh": 1953,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 215461062
+  },
+  {
+    "STT": 67,
+    "HoTen": "Đinh Văn Rằm",
+    "NamSinh": 1948,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210079207
+  },
+  {
+    "STT": 68,
+    "HoTen": "Đinh Khuyết ( Khuyếch)",
+    "NamSinh": 1934,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210277270
+  },
+  {
+    "STT": 69,
+    "HoTen": "La Văn Thảo",
+    "NamSinh": 1952,
+    "DiaChi": "Ka Bưng, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 211813908
+  },
+  {
+    "STT": 70,
+    "HoTen": "Đinh Thị Nghéo",
+    "NamSinh": 1942,
+    "DiaChi": "Ka Bưng, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210277388
+  },
+  {
+    "STT": 71,
+    "HoTen": "Đinh Văn Trên",
+    "NamSinh": 1951,
+    "DiaChi": "Hòn Mẻ, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210079137
+  },
+  {
+    "STT": 72,
+    "HoTen": "Đinh Bá Cảnh",
+    "NamSinh": 1936,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210277105
+  },
+  {
+    "STT": 73,
+    "HoTen": "Đinh Văn Chương",
+    "NamSinh": 1937,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 215443630
+  },
+  {
+    "STT": 74,
+    "HoTen": "Đinh Văn Môn",
+    "NamSinh": 1952,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 210079159
+  },
+  {
+    "STT": 75,
+    "HoTen": "Lê Văn Bản (Bảng)",
+    "NamSinh": 1959,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 210277107
+  },
+  {
+    "STT": 76,
+    "HoTen": "Trương Thị Phước",
+    "NamSinh": 1954,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 211311336
+  },
+  {
+    "STT": 77,
+    "HoTen": "Mai Thị Liên",
+    "NamSinh": 1952,
+    "DiaChi": "Hòn Mẻ, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 210064837
+  },
+  {
+    "STT": 78,
+    "HoTen": "Đinh Văn Tầm",
+    "NamSinh": 1953,
+    "DiaChi": "HVD, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 211311720
+  },
+  {
+    "STT": 79,
+    "HoTen": "Đinh Văn Thọ",
+    "NamSinh": 1952,
+    "DiaChi": "HVD, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 211311720
+  },
+  {
+    "STT": 80,
+    "HoTen": "Đinh Văn Diễn",
+    "NamSinh": 1951,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 210079401
+  },
+  {
+    "STT": 81,
+    "HoTen": "La Mo Tân",
+    "NamSinh": 1937,
+    "DiaChi": "Ka Bưng, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 71-80%",
+    "CMND": 211813857
+  },
+  {
+    "STT": 82,
+    "HoTen": "Pra Ma K bá Sinh",
+    "NamSinh": 1947,
+    "DiaChi": "Hòn Mẻ, xã Canh Thuận",
+    "LoaiDoiTuong": "Bệnh Binh 71-80%",
+    "CMND": 210511714
+  },
+  {
+    "STT": 83,
+    "HoTen": "Đinh Thị Đôi",
+    "NamSinh": 1938,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210079162
+  },
+  {
+    "STT": 84,
+    "HoTen": "Pơ Lo M Chớp",
+    "NamSinh": 1959,
+    "DiaChi": "Ka Xim, xã Canh Thuận",
+    "LoaiDoiTuong": "Tuất bệnh binh",
+    "CMND": 215461652
+  },
+  {
+    "STT": 85,
+    "HoTen": "Đinh Thị Ê",
+    "NamSinh": 1951,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210277287
+  },
+  {
+    "STT": 86,
+    "HoTen": "Đinh Thị Ót",
+    "NamSinh": 1937,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 211790437
+  },
+  {
+    "STT": 87,
+    "HoTen": "Đinh Thị Bót (Lót)",
+    "NamSinh": 1935,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210277168
+  },
+  {
+    "STT": 88,
+    "HoTen": "Phạm Thị Chạy",
+    "NamSinh": 1953,
+    "DiaChi": "Hòn Mẻ, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210064065
+  },
+  {
+    "STT": 89,
+    "HoTen": "Nguyễn Văn Đin",
+    "NamSinh": 1941,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210277286
+  },
+  {
+    "STT": 90,
+    "HoTen": "Đinh Luốt",
+    "NamSinh": 1944,
+    "DiaChi": "HVT, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210277317
+  },
+  {
+    "STT": 91,
+    "HoTen": "Đinh Ly",
+    "NamSinh": 1930,
+    "DiaChi": "Hà Lũy, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210277334
+  },
+  {
+    "STT": 92,
+    "HoTen": "Đinh Thị Ngoắt",
+    "NamSinh": 1935,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 215165842
+  },
+  {
+    "STT": 93,
+    "HoTen": "Đinh Thị Tam ( Tang)",
+    "NamSinh": 1944,
+    "DiaChi": "Hà Lũy, xã Canh Thuận",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210277351
+  },
+  {
+    "STT": 94,
+    "HoTen": "Đinh Thị Huệ",
+    "NamSinh": 1984,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61 đến 80%",
+    "CMND": 215165831
+  },
+  {
+    "STT": 95,
+    "HoTen": "Đinh Văn Dũng",
+    "NamSinh": 1978,
+    "DiaChi": "Hà Lũy, xã Canh Thuận",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61 đến 80%"
+  },
+  {
+    "STT": 96,
+    "HoTen": "Đinh Văn Diệu",
+    "NamSinh": 1983,
+    "DiaChi": "Ka Te, xã Canh Thuận",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61 đến 80%",
+    "CMND": 211755672
+  },
+  {
+    "STT": 97,
+    "HoTen": "Phạm Văn Hữu",
+    "NamSinh": "1937-07-06T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210946436
+  },
+  {
+    "STT": 98,
+    "HoTen": "Nguyễn Minh Phụng",
+    "NamSinh": "1949-09-08T16:59:56.000Z",
+    "DiaChi": "An Long 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210218853
+  },
+  {
+    "STT": 99,
+    "HoTen": "Nguyễn Văn Thứ",
+    "NamSinh": "1958-10-09T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 211329074
+  },
+  {
+    "STT": 100,
+    "HoTen": "Nguyễn Thị Đào",
+    "NamSinh": "1932-08-01T16:59:56.000Z",
+    "DiaChi": "An Long 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210157358
+  },
+  {
+    "STT": 101,
+    "HoTen": "Nguyễn Văn Lâu",
+    "NamSinh": "1940-05-31T16:59:56.000Z",
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210002517
+  },
+  {
+    "STT": 102,
+    "HoTen": "Lê Thị Lắm",
+    "NamSinh": "1950-04-19T16:59:56.000Z",
+    "DiaChi": "An Long 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210157436
+  },
+  {
+    "STT": 103,
+    "HoTen": "Trương Văn Viết",
+    "NamSinh": "1939-02-03T16:59:56.000Z",
+    "DiaChi": "An Long 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210042548
+  },
+  {
+    "STT": 104,
+    "HoTen": "Phan Lưu",
+    "NamSinh": "1949-03-06T16:59:56.000Z",
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 211329454
+  },
+  {
+    "STT": 105,
+    "HoTen": "Nguyễn Thị Năm",
+    "NamSinh": "1928-07-04T16:59:56.000Z",
+    "DiaChi": "An Long 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210157341
+  },
+  {
+    "STT": 106,
+    "HoTen": "Phan Huyên",
+    "NamSinh": "1949-10-19T16:59:56.000Z",
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210908779
+  },
+  {
+    "STT": 107,
+    "HoTen": "Nguyễn Thị Tranh",
+    "NamSinh": "1951-06-05T16:59:56.000Z",
+    "DiaChi": "An Long 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương Binh 21-60%",
+    "CMND": 210157325
+  },
+  {
+    "STT": 108,
+    "HoTen": "Nguyễn  Đức Hậu",
+    "NamSinh": "1942-04-02T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương binh 61-80%",
+    "CMND": 210278456
+  },
+  {
+    "STT": 109,
+    "HoTen": "Lê Văn Tuấn",
+    "NamSinh": "1966-09-30T16:59:56.000Z",
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương binh 61-80%",
+    "CMND": 211132523
+  },
+  {
+    "STT": 110,
+    "HoTen": "Đoàn Thôm (Thơm)",
+    "NamSinh": "1963-06-21T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương binh 61-80%",
+    "CMND": 210277441
+  },
+  {
+    "STT": 111,
+    "HoTen": "Đoàn Duy Khiêm",
+    "NamSinh": "1963-03-09T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương binh 61-80%",
+    "CMND": 210277566
+  },
+  {
+    "STT": 112,
+    "HoTen": "Nguyễn Thành Sơn",
+    "NamSinh": "1954-06-02T16:59:56.000Z",
+    "DiaChi": "An Long 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương binh 61-80%",
+    "CMND": 210157338
+  },
+  {
+    "STT": 113,
+    "HoTen": "Đặng Thị Nhành",
+    "NamSinh": "1950-04-11T16:59:56.000Z",
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Bệnh binh 61-70%",
+    "CMND": 210622022
+  },
+  {
+    "STT": 114,
+    "HoTen": "Phan Thanh Hùng",
+    "NamSinh": "1952-09-04T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Thương binh 81%",
+    "CMND": 211809852
+  },
+  {
+    "STT": 115,
+    "HoTen": "Nguyễn Thị Xuân Thu",
+    "NamSinh": "1962-02-06T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Người phục vụ BB 81% trở Lên",
+    "CMND": 210277741
+  },
+  {
+    "STT": 116,
+    "HoTen": "Đào Văn Lý",
+    "NamSinh": "1930-12-11T16:59:56.000Z",
+    "DiaChi": "Tăng Lợi, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210064672
+  },
+  {
+    "STT": 117,
+    "HoTen": "Đoàn Liêm",
+    "NamSinh": "1937-02-01T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210277538
+  },
+  {
+    "STT": 118,
+    "HoTen": "Nguyễn Đảng",
+    "NamSinh": "1931-03-01T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210064160
+  },
+  {
+    "STT": 119,
+    "HoTen": "Đỗ Thị Quảng",
+    "NamSinh": 1918,
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 211132443
+  },
+  {
+    "STT": 120,
+    "HoTen": "Võ Thị Mười",
+    "NamSinh": "1931-09-17T16:59:56.000Z",
+    "DiaChi": "Tân vinh, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210277586
+  },
+  {
+    "STT": 121,
+    "HoTen": "Nguyễn Thị Cúc",
+    "NamSinh": "1934-06-29T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210064321
+  },
+  {
+    "STT": 122,
+    "HoTen": "Bùi Thị Ngọc",
+    "NamSinh": "1935-08-17T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210277582
+  },
+  {
+    "STT": 123,
+    "HoTen": "Trần Thị Cúc",
+    "NamSinh": "1938-01-09T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210277539
+  },
+  {
+    "STT": 124,
+    "HoTen": "Đỗ Thị Thanh",
+    "NamSinh": "1931-10-29T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210064720
+  },
+  {
+    "STT": 125,
+    "HoTen": "Nguyễn Thị Tâm",
+    "NamSinh": "1954-05-03T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ",
+    "CMND": 210278103
+  },
+  {
+    "STT": 126,
+    "HoTen": "Phạm Thị Lan",
+    "NamSinh": "1934-09-17T16:59:56.000Z",
+    "DiaChi": "Tân Vinh, xã Canh Vinh",
+    "LoaiDoiTuong": "Tuất TB",
+    "CMND": 210198558
+  },
+  {
+    "STT": 127,
+    "HoTen": "Võ Thị Mỹ Hà",
+    "NamSinh": "1952-05-14T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 1, xã Canh Vinh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210064183
+  },
+  {
+    "STT": 128,
+    "HoTen": "Võ Thị Sương",
+    "NamSinh": "1940-10-29T16:59:56.000Z",
+    "DiaChi": "Hiệp Vinh 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210064325
+  },
+  {
+    "STT": 129,
+    "HoTen": "Lê Thị Thanh",
+    "NamSinh": "1931-03-22T16:59:56.000Z",
+    "DiaChi": "An Long 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210157925
+  },
+  {
+    "STT": 130,
+    "HoTen": "Lê Văn Giáo",
+    "NamSinh": "1951-12-29T16:59:56.000Z",
+    "DiaChi": "An Long 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210157777
+  },
+  {
+    "STT": 131,
+    "HoTen": "Phan Thị Tôn",
+    "NamSinh": 1959,
+    "DiaChi": "An Long 2, xã Canh Vinh",
+    "LoaiDoiTuong": "Tù đày"
+  },
+  {
+    "STT": 132,
+    "HoTen": "Lơ Bơ",
+    "NamSinh": "1945-09-19T16:59:56.000Z",
+    "DiaChi": "Kinh Tế, xã Canh Vinh",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210547072
+  },
+  {
+    "STT": 133,
+    "HoTen": "Đinh Thị Ngót",
+    "NamSinh": 1946,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 215616450
+  },
+  {
+    "STT": 134,
+    "HoTen": "Đinh Văn Mạnh",
+    "NamSinh": 1954,
+    "DiaChi": "Kon Lót, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 211755702
+  },
+  {
+    "STT": 135,
+    "HoTen": "Đinh Văn Lộc",
+    "DiaChi": "Kon Lót, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 136,
+    "HoTen": "Đinh Văn Vủnh",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 137,
+    "HoTen": "Đinh Văn Hường",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 138,
+    "HoTen": "Ñinh Vaên Hoah",
+    "NamSinh": 1950,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 139,
+    "HoTen": "Đinh Văn Tuân",
+    "NamSinh": 1939,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 140,
+    "HoTen": "Đinh (Văn) Hùng",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 141,
+    "HoTen": "Đinh (Văn) Cu",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 142,
+    "HoTen": "Lê Văn Đung",
+    "NamSinh": 1951,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 143,
+    "HoTen": "Đinh Văn Lễ",
+    "DiaChi": "Kon Lót, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210269040
+  },
+  {
+    "STT": 144,
+    "HoTen": "Đinh Văn Dắt",
+    "NamSinh": 1950,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210047069
+  },
+  {
+    "STT": 145,
+    "HoTen": "Đinh Lanh",
+    "DiaChi": "Kà Bưng, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 146,
+    "HoTen": "Mai Văn  Dũng",
+    "DiaChi": "Canh Tiến, xã Canh Liên",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 147,
+    "HoTen": "Đinh Văn Leo",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Bệnh binh suy giảm KNLĐ 61-70%"
+  },
+  {
+    "STT": 148,
+    "HoTen": "Đinh Văn Trung",
+    "NamSinh": 1939,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Bệnh binh suy giảm KNLĐ 61-70%",
+    "CMND": 211132301
+  },
+  {
+    "STT": 149,
+    "HoTen": "Đinh Thị Luôn",
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 150,
+    "HoTen": "Đinh Văn Bênh",
+    "NamSinh": 1948,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 151,
+    "HoTen": "Đinh Văn Phương",
+    "NamSinh": 1946,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210047064
+  },
+  {
+    "STT": 152,
+    "HoTen": "Đinh Thị Lưới",
+    "DiaChi": "Kà Bưng, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 153,
+    "HoTen": "Đinh Văn Lét",
+    "NamSinh": 1930,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 215190296
+  },
+  {
+    "STT": 154,
+    "HoTen": "Đinh Văn Vươn",
+    "NamSinh": 1932,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 215190293
+  },
+  {
+    "STT": 155,
+    "HoTen": "Đinh Thị Bất",
+    "DiaChi": "Kà Bưng, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 156,
+    "HoTen": "Đinh Văn Thọ",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 157,
+    "HoTen": "Đinh Văn Bế",
+    "NamSinh": 1925,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 158,
+    "HoTen": "Đinh Văn Dưu",
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 159,
+    "HoTen": "Đinh Thị Chín",
+    "DiaChi": "Canh Tiến, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 160,
+    "HoTen": "Đinh Văn Do",
+    "DiaChi": "Làng Chồm, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 161,
+    "HoTen": "ĐinhVăn Xiêm",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 162,
+    "HoTen": "Thành Đình Quang",
+    "DiaChi": "Canh Tiến, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 163,
+    "HoTen": "Đinh Văn Tư",
+    "DiaChi": "Làng Chồm, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 164,
+    "HoTen": "Đinh Thị Năm",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 165,
+    "HoTen": "Đinh Văn Bình",
+    "DiaChi": "Kà Bưng, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 166,
+    "HoTen": "Đinh Văn Dũng",
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 167,
+    "HoTen": "Đinh Thị Đinh",
+    "NamSinh": 1948,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 168,
+    "HoTen": "Đinh Thị Năm",
+    "DiaChi": "Kon Lót, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210269041
+  },
+  {
+    "STT": 169,
+    "HoTen": "Đinh Thị Dơn",
+    "DiaChi": "Kà Nâu, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 170,
+    "HoTen": "Đinh Thị Đing",
+    "DiaChi": "Làng Chồm, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 171,
+    "HoTen": "Đinh Văn Bênh",
+    "NamSinh": 1952,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210047079
+  },
+  {
+    "STT": 172,
+    "HoTen": "Đinh Thị Chắp",
+    "DiaChi": "Kà Bưng, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 173,
+    "HoTen": "Đinh Thị Thú",
+    "NamSinh": 1948,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 174,
+    "HoTen": "Đinh Văn Bách",
+    "NamSinh": 1928,
+    "DiaChi": "Kà Bông, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210047091
+  },
+  {
+    "STT": 175,
+    "HoTen": "Đinh Văn Ngam",
+    "DiaChi": "Làng Cát, xã Canh Liên",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 176,
+    "HoTen": "Đinh Văn Khum",
+    "NamSinh": 1948,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Bị Mắc bệnh suy giảm KNLĐ từ 41-60%"
+  },
+  {
+    "STT": 177,
+    "HoTen": "Đinh Văn Lít",
+    "NamSinh": 1945,
+    "DiaChi": "Hà Giao, xã Canh Liên",
+    "LoaiDoiTuong": "Bị Mắc bệnh suy giảm KNLĐ từ 41-60%"
+  },
+  {
+    "STT": 178,
+    "HoTen": "Đinh Văn Bai",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61% đến 80%"
+  },
+  {
+    "STT": 179,
+    "HoTen": "Đinh Văn Mẫn",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61% đến 80%"
+  },
+  {
+    "STT": 180,
+    "HoTen": "Đinh Thị Nga",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61% đến 80%"
+  },
+  {
+    "STT": 181,
+    "HoTen": "Đinh Văn Vi",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61% đến 80%"
+  },
+  {
+    "STT": 182,
+    "HoTen": "Đinh Văn Găm",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61% đến 80%"
+  },
+  {
+    "STT": 183,
+    "HoTen": "Đinh Thị Hoa",
+    "DiaChi": "xã Canh Liên",
+    "LoaiDoiTuong": "Con bị DDDT, SGKNLĐ từ 61% đến 80%"
+  },
+  {
+    "STT": 184,
+    "HoTen": "Đào Thị Bảy",
+    "NamSinh": 1943,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 211132904
+  },
+  {
+    "STT": 185,
+    "HoTen": "Đặng Văn Sinh",
+    "NamSinh": 1962,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 211010552
+  },
+  {
+    "STT": 186,
+    "HoTen": "Phạm Đình Quý",
+    "NamSinh": 1955,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 187,
+    "HoTen": "Đỗ Thanh Ngàn",
+    "NamSinh": 1943,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210247599
+  },
+  {
+    "STT": 188,
+    "HoTen": "Đoàn Văn Tuấn",
+    "NamSinh": 1956,
+    "DiaChi": "Canh Giao, xã Canh Hiệp",
+    "LoaiDoiTuong": "Thương binh 21- 60%"
+  },
+  {
+    "STT": 189,
+    "HoTen": "Nguyễn Thị Nụ",
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ"
+  },
+  {
+    "STT": 190,
+    "HoTen": "Lê Thị Phải",
+    "NamSinh": 1939,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 210073637
+  },
+  {
+    "STT": 191,
+    "HoTen": "Trần Văn Tinh",
+    "NamSinh": 1943,
+    "DiaChi": "Canh Giao, xã Canh Hiệp",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 192,
+    "HoTen": "Nguyên Văn Đồng",
+    "NamSinh": 1935,
+    "DiaChi": "Canh Giao, xã Canh Hiệp",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  },
+  {
+    "STT": 193,
+    "HoTen": "Đô Thị Bé",
+    "NamSinh": 1951,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210247601
+  },
+  {
+    "STT": 194,
+    "HoTen": "Đoàn Thị Nhẫn",
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Tù đày"
+  },
+  {
+    "STT": 195,
+    "HoTen": "Lê Thị Khá",
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Tù đày"
+  },
+  {
+    "STT": 196,
+    "HoTen": "Thái Đình Muộn",
+    "NamSinh": 1939,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Tù đày"
+  },
+  {
+    "STT": 197,
+    "HoTen": "Nguyên Cửu Long",
+    "NamSinh": 1937,
+    "DiaChi": "Thôn 4, xã Canh Hiệp",
+    "LoaiDoiTuong": "Tù đày",
+    "CMND": 210228657
+  },
+  {
+    "STT": 198,
+    "HoTen": "Võ Thị Dây",
+    "DiaChi": "xã Canh Hiển",
+    "LoaiDoiTuong": "TNLS"
+  },
+  {
+    "STT": 199,
+    "HoTen": "Lê Thị Phi",
+    "NamSinh": "1951-02-02T16:59:56.000Z",
+    "DiaChi": "xã Canh Hiển",
+    "LoaiDoiTuong": "TNLS",
+    "CMND": 210452457
+  },
+  {
+    "STT": 200,
+    "HoTen": "Đinh Văn Hội",
+    "NamSinh": 1935,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210079144
+  },
+  {
+    "STT": 201,
+    "HoTen": "Đinh Văn Kiến",
+    "NamSinh": 1937,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 211132980
+  },
+  {
+    "STT": 202,
+    "HoTen": "La O Dời",
+    "NamSinh": 1947,
+    "DiaChi": "Canh Phước, xã Canh Hòa",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210079093
+  },
+  {
+    "STT": 203,
+    "HoTen": "Mang Thị Ký",
+    "NamSinh": 1952,
+    "DiaChi": "Canh Phước, xã Canh Hòa",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210064876
+  },
+  {
+    "STT": 204,
+    "HoTen": "Đinh Văn Dư",
+    "NamSinh": 1957,
+    "DiaChi": "Canh Phước, xã Canh Hòa",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210268995
+  },
+  {
+    "STT": 205,
+    "HoTen": "Đinh Văn Hậu",
+    "NamSinh": 1943,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Thương binh 21- 60%",
+    "CMND": 210277115
+  },
+  {
+    "STT": 206,
+    "HoTen": "ĐinhVăn Thuận",
+    "NamSinh": 1957,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Bệnh Binh 61-70%",
+    "CMND": 211755664
+  },
+  {
+    "STT": 207,
+    "HoTen": "Đinh Thị Ót",
+    "NamSinh": 1934,
+    "DiaChi": "Canh Phước, xã Canh Hòa",
+    "LoaiDoiTuong": "Tuất 1 liệt sĩ"
+  },
+  {
+    "STT": 208,
+    "HoTen": "Đinh Thị Thơi",
+    "NamSinh": 1942,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Tuất bệnh binh",
+    "CMND": 215393906
+  },
+  {
+    "STT": 209,
+    "HoTen": "Đinh Thị Cầu",
+    "NamSinh": 1945,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB",
+    "CMND": 211311695
+  },
+  {
+    "STT": 210,
+    "HoTen": "Đoàn Thị Phép",
+    "NamSinh": 1942,
+    "DiaChi": "Canh Lãnh, xã Canh Hòa",
+    "LoaiDoiTuong": "Người CCCM hưởng ĐXCB"
+  }
+]

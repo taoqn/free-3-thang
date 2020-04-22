@@ -66,11 +66,10 @@ function generateSQLDoiTuong(finded, canhan, IDNoiDung, SoTien, ThanhTien, DaTra
 function convertIDDoituong(doituong) {
     return `${doituong ? `'${doituong}'` : `NULL`}`;
 }
-console.log(doanhnghieps.length);
 //
 let promises = [];
 doanhnghieps.forEach((doanhnghiep, index) => {
-    if (index >= 60 && index < 110) {
+    if (index >= 50 && index < 102) {
         // fileOutput.write(`-- row - doanh-nghiep: [${index}]);\n`);
         fileOutput.write(`${sqlDoanhNghiep} ('${doanhnghiep.ID}', N'${doanhnghiep.TenDN}', '${doanhnghiep.MST}');\n`);
         doanhnghiep.canhans.forEach((canhan) =>
@@ -84,8 +83,8 @@ doanhnghieps.forEach((doanhnghiep, index) => {
                                 resolve(true);
                                 return;
                             }
-                            parseCaNhan(canhan, data[0]);
-                            console.log(data);
+                            parseCaNhan(canhan, data.value[0]);
+                            // console.log(data);
                             resolve(true);
                         })
                         .catch(err => {

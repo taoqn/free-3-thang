@@ -1,0 +1,162 @@
+[
+  {
+    "Ten": ["Người HĐCM trước 01/01/45 diện thoát ly"],
+    "LoaiDoiTuong": "Người hoạt động cách mạng trước ngày 01/01/1945 đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "690946BA-3BF3-46A4-AB1B-ED1A6F987860"
+  },
+  {
+    "Ten": ["Người HĐCM từ 01/01/45 đến trước TKN"],
+    "LoaiDoiTuong": "Người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945 đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "52698754-3DF5-4DEF-B79C-3C93B71999A5"
+  },
+  {
+    "Ten": [
+      "Bà mẹ VNAH",
+      "Bà mẹ Việt nam anh hùng (01 liệt sỹ)",
+      "Bà mẹ Việt nam anh hùng (02 liệt sỹ)",
+      "Bà mẹ Việt nam anh hùng (03 liệt sỹ trở lên)"
+    ],
+    "LoaiDoiTuong": "Bà mẹ Việt Nam anh hùng đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "17FAD857-895C-48FB-88C0-B4B95B567C34"
+  },
+  {
+    "Ten": ["Anh hùng LL VTND, anh hùng LĐ trong KC"],
+    "LoaiDoiTuong": "Anh hùng lực lượng vũ trang nhân dân đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "CD9A94D0-92C2-4DFA-BED3-732AE9CD8522"
+  },
+  {
+    "Ten": [
+      "Thương binh",
+      "Thương binh 21- 60%",
+      "Thương binh 21-60%",
+      "Thương binh 61-80%",
+      "Thương binh 81%",
+      "TB suy giảm KNLĐ từ 21-60%",
+      "TB suy giảm KNLĐ từ 61-80%",
+      "TB suy giảm KNLĐ từ 81% trở lên",
+      "TB suy giảm KNLĐ từ 81% trở lên có VT BĐ nặng"
+    ],
+    "LoaiDoiTuong": "Thương binh, người hưởng chính sách như thương binh, đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "EDE2F0CC-2376-438A-B5FB-FACD867E38EF"
+  },
+  {
+    "Ten": [
+      "Thương binh B",
+      "TB B suy giảm KNLĐ từ 21-60%",
+      "TB B suy giảm KNLĐ từ 61-80%",
+      "TB B suy giảm KNLĐ từ 81% trở lên"
+    ],
+    "LoaiDoiTuong": "Thương binh B đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "DCCF51EF-D38F-4A9A-89AE-BA413D967DE4"
+  },
+  {
+    "Ten": [
+      "Đã nằm trong đối tượng I.6 (vẫn tạo trường để nhập bổ sung theo hướng dẫn của Bộ LĐTBXH)"
+    ],
+    "LoaiDoiTuong": "Thương binh đang hưởng chế độ mất sức lao động",
+    "ID": "79FF963B-BEC4-4ECB-A85D-0F67D256B9B4"
+  },
+  {
+    "Ten": [
+      "Bệnh binh",
+      "Bệnh Binh 41-50%",
+      "Bệnh Binh 61-70%",
+      "Bệnh binh 61-70%",
+      "Bệnh Binh 71-80%",
+      "Bệnh binh suy giảm KNLĐ 61-70%",
+      "BB suy giảm KNLĐ từ 41-50%",
+      "BB suy giảm KNLĐ từ 51-60%",
+      "BB suy giảm KNLĐ từ 61-70%",
+      "BB suy giảm KNLĐ từ 71-80%",
+      "BB suy giảm KNLĐ từ 81-90%",
+      "BB suy giảm KNLĐ từ 91-100%"
+    ],
+    "LoaiDoiTuong": "Bệnh binh đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "78AC3F79-5C50-4ACB-B626-E51ED3D4E8E5"
+  },
+  {
+    "Ten": [
+      "Bị Mắc bệnh suy giảm KNLĐ từ 41-60%",
+      "Bị mắc bệnh suy giảm KNLĐ từ 21% - 40%",
+      "Bị mắc bệnh suy giảm KNLĐ từ 41% - 60%",
+      "Bị mắc bệnh suy giảm KNLĐ từ 61% - 80%",
+      "Bị mắc bệnh suy giảm KNLĐ từ 81% - 100%",
+      "Bị mắc bệnh suy giảm KNLĐ từ 81% trở lên (chưa giám định)",
+      "Bị mắc bệnh suy giảm KNLĐ có con bị DDDT hoặc vô sinh"
+    ],
+    "LoaiDoiTuong": "Người hoạt động kháng chiến bị nhiễm chất độc hóa học đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "29EA9FE6-20DA-45E2-BC8D-04666B4919AF"
+  },
+  {
+    "Ten": ["Tù đày", "Người HĐCM hoặc HĐKC bị địch bắt tù, đày"],
+    "LoaiDoiTuong": "Người hoạt động cách mạng, hoạt động kháng chiến bị địch bắt tù, đày đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "2DE801FE-8F9D-4CB2-A1C0-E61F4503CB74"
+  },
+  {
+    "Ten": [
+      "Người có công giúp đỡ cách mạng",
+      "Người CCCM hưởng ĐXCB",
+      "NCC giúp đỡ CM trong KC hưởng ĐXCB",
+      "NCC giúp đỡ CM trong KC hưởng ĐXND"
+    ],
+    "LoaiDoiTuong": "Người có công giúp đỡ cách mạng đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "41B0E9CD-732C-4E19-AAEC-3DC041CB6144"
+  },
+  {
+    "Ten": ["Tuất người HĐCM trước 01/01/1945 hưởng ĐXCB"],
+    "LoaiDoiTuong": "Thân nhân của người hoạt động cách mạng trước ngày 01/01/1945 đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "2A5E6BF9-CEA6-47F8-B870-0A2030C47AD0"
+  },
+  {
+    "Ten": ["Tuất cán bộ TKN hưởng ĐXCB"],
+    "LoaiDoiTuong": "Thân nhân của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945 đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "B5F9A142-194D-4DB7-866F-EDE99556D570"
+  },
+  {
+    "Ten": [
+      "Tuất liệt sĩ",
+      "Tuất 1 liệt sỹ",
+      "Tuất 1 liệt sỹ hưởng ĐXND",
+      "Tuất 2 liệt sỹ",
+      "Tuất 2 liệt sỹ hưởng ĐXND",
+      "Tuất 3 liệt sỹ hưởng ĐXND"
+    ],
+    "LoaiDoiTuong": "Thân nhân liệt sĩ đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "3A65F299-2EFA-4982-BF70-81D7B5024935"
+  },
+  {
+    "Ten": [
+      "Tuất thương binh",
+      "Tuất TB",
+      "Tuất TB, TB B từ 61% trở lên hưởng ĐXCB"
+    ],
+    "LoaiDoiTuong": "Thân nhân của thương binh, người hưởng chính sách như thương binh đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "DF559633-EE29-45FD-BD59-1153DDD55C4B"
+  },
+  {
+    "Ten": ["Tuất TB B", "Tuất TB, TB B từ 61% trở lên hưởng ĐXCB"],
+    "LoaiDoiTuong": "Thân nhân của thương binh B đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "066EB3FC-9F24-4E71-B6E2-E2FC3D6B95A2"
+  },
+  {
+    "Ten": ["Tuất bệnh binh", "Tuất BB từ 61% trở lên hưởng ĐXCB"],
+    "LoaiDoiTuong": "Thân nhân của bệnh binh đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "A02E0865-9021-4BDD-840E-889CB8F49B88"
+  },
+  {
+    "Ten": ["Tuất CĐHH trên 61% hưởng ĐXCB"],
+    "LoaiDoiTuong": "Thân nhân của người hoạt động kháng chiến bị nhiễm chất độc hóa học đang hưởng trợ cấp tuất ưu đãi hàng tháng",
+    "ID": "562FE8F4-199A-4F67-9E6B-C7B2F29CE25A"
+  },
+  {
+    "Ten": [
+      "Con bị nhiễm CĐHH",
+      "Con bị DDDT, SGKNLĐ từ 61% đến 80%",
+      "Con bị DDDT, SGKNLĐ từ 61 đến 80%",
+      "Con bị DDDT, SGKNLĐ từ 81% trở lên",
+      "Con bị DDDT , SGKNLĐ từ 81% trở lên"
+    ],
+    "LoaiDoiTuong": "Con đẻ của người lao động kháng chiến bị nhiễm chất độc hóa học đang hưởng trợ cấp ưu đãi hàng tháng",
+    "ID": "E4E24DC6-98AE-4685-985D-47C0B48DD6FD"
+  }
+]
